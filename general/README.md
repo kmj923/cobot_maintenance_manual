@@ -9,7 +9,81 @@
 이 설명서는 표준 사양을 기준으로 작성되었으므로 구입하신 제품의 모델에 따라 일부 내용이 다를 수 있습니다. 또한 이 설명서의 내용과 사양은 제품의 성능 향상을 위해 예고 없이 변경될 수 있으며 부정확한 내용이나 오탈자로 인해 발생하는 상황에 대해서 현대로보틱스는 책임이 없습니다. 개정에 관한 상세한 정보는 당사의 인터넷 웹사이트\(www.hyundai-robotics.com\)를 방문하여 확인하시기 바랍니다.
 
 이 설명서가 적용되는 제품은 다음과 같습니다.
-
+<table width="0">
+<tbody>
+<tr>
+<td width="215" bgcolor="blue">
+<p>항목</p>
+</td>
+<td width="214">
+<p>명칭</p>
+</td>
+<td width="214">
+<p>버전</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="215">
+<p>로봇 기구</p>
+</td>
+<td width="214">
+<p>YL012</p>
+</td>
+<td width="214">
+<p>0D</p>
+</td>
+</tr>
+<tr>
+<td width="214">
+<p>YL015</p>
+</td>
+<td width="214">
+<p>0A</p>
+</td>
+</tr>
+<tr>
+<td width="214">
+<p>YL005</p>
+</td>
+<td width="214">
+<p>0B</p>
+</td>
+</tr>
+<tr>
+<td width="215">
+<p>제어기</p>
+</td>
+<td width="214">
+<p>Hi6-H10</p>
+</td>
+<td width="214">
+<p>V1.0</p>
+</td>
+</tr>
+<tr>
+<td width="215">
+<p>안전 제어 모듈(SCM)</p>
+</td>
+<td width="214">
+<p>BD6F1</p>
+</td>
+<td width="214">
+<p>V1.2</p>
+</td>
+</tr>
+<tr>
+<td width="215">
+<p>티치 펜던트</p>
+</td>
+<td width="214">
+<p>TP600</p>
+</td>
+<td width="214">
+<p>V1.0</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 
