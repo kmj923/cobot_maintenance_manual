@@ -27,7 +27,8 @@ GUI 는 메뉴 이름 및 버튼 이름을 대괄호**\(\[  \]**\) 안에 넣고
 
 * 날짜와 시간 정보 변경에 대한 자세한 내용은 Hi6 제어기 조작설명서의 “**4.5 날짜 및 시간 설정**”을 참조하십시오.
 
-### 참고 사항
+### 
+참고 사항
 
 제품을 사용할 때 알아 두면 좋을 유용한 사항이나 추가적인 정보를 다음과 같이 제공합니다.
 
@@ -35,5 +36,5 @@ GUI 는 메뉴 이름 및 버튼 이름을 대괄호**\(\[  \]**\) 안에 넣고
 상태 표시줄에 ![](../.gitbook/assets/engineer.png) 아이콘이 깜빡이면 엔지니어\(engineer\)모드 상태입니다.
 {% endhint %}
 
-
-
+| WARNING: be careful to baz the quux before initializing the retro encabulator! |
+| --- |
