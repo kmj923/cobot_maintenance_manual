@@ -1,4 +1,4 @@
-# 문서정보
+# Maintenance Manual for Collaborative Robot
 
 {% hint style="warning" %}
 본 제품 설명서에서 제공되는 정보는 현대로보틱스의 자산입니다.
