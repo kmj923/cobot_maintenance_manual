@@ -77,16 +77,14 @@
           &#xC0AC;&#xC6A9;&#xD569;&#xB2C8;&#xB2E4;.
           <br />
         </p>
-        <p>
-          <img src="../../.gitbook/assets/dot.png" alt/>1&#xB2E8;, 3&#xB2E8;: &#xB85C;&#xBD07; &#xC6B4;&#xC804;&#xC774; &#xC815;&#xC9C0;&#xB429;&#xB2C8;&#xB2E4;.
+        <p>- 1&#xB2E8;, 3&#xB2E8;: &#xB85C;&#xBD07; &#xC6B4;&#xC804;&#xC774; &#xC815;&#xC9C0;&#xB429;&#xB2C8;&#xB2E4;.
           3&#xB2E8;&#xC77C; &#xACBD;&#xC6B0;, 2&#xB2E8;&#xC744; &#xAC70;&#xCE58;&#xC9C0;
           &#xC54A;&#xACE0;</p>
         <p>1&#xB2E8;&#xC73C;&#xB85C; &#xBCF5;&#xADC0;&#xD569;&#xB2C8;&#xB2E4;.
           <br
           />
         </p>
-        <p>
-          <img src="../../.gitbook/assets/dot.png" alt/>2&#xB2E8;: &#xB85C;&#xBD07;&#xC744; &#xC870;&#xC791;&#xD560; &#xC218;
+        <p>- 2&#xB2E8;: &#xB85C;&#xBD07;&#xC744; &#xC870;&#xC791;&#xD560; &#xC218;
           &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.
           <br />
         </p>
