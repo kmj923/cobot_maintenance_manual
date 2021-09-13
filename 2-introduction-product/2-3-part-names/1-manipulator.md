@@ -90,50 +90,54 @@
           <br
           />
         </p>
-        <p>
-          <img src="../../.gitbook/assets/dot (1).png" alt/>OFF: &#xB85C;&#xBD07; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xC804;&#xC6D0;&#xC774;
-          &#xAEBC;&#xC838; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
-        <p>
-          <img src="../../.gitbook/assets/dot (1).png" alt/>ON: &#xB85C;&#xBD07; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xC804;&#xC6D0;&#xC774;
-          &#xCF1C;&#xC838; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. LED &#xB7A8;&#xD504;&#xC758;
-          &#xC0C9;&#xC5D0; &#xB530;&#xB978;</p>
-        <p>&#xB85C;&#xBD07;&#xC758; &#xC0C1;&#xD0DC;&#xB294; &#xB2E4;&#xC74C;&#xACFC;
-          &#xAC19;&#xC2B5;&#xB2C8;&#xB2E4;.
-          <br />
-        </p>
-        <p>
-          <img src="../../.gitbook/assets/dot (1).png" alt/>&#xD770;&#xC0C9;: &#xC11C;&#xBCF4; &#xD65C;&#xC131;&#xD654; &#xB300;&#xAE30;(&#xC804;&#xC6D0;&#xC774;
-          &#xCF1C;&#xC838; &#xC788;&#xAC70;&#xB098; &#xBE0C;&#xB808;&#xC774;&#xD06C;
-          &#xC801;&#xC6A9;)</p>
-        <p>&#xB610;&#xB294; &#xC77C;&#xBC18;&#xC815;&#xC9C0; &#xC0C1;&#xD0DC;&#xC785;&#xB2C8;&#xB2E4;.
-          <br
-          />
-        </p>
-        <p>
-          <img src="../../.gitbook/assets/dot (1).png" alt/>&#xCD08;&#xB85D;&#xC0C9;: &#xC11C;&#xBCF4; &#xD65C;&#xC131;&#xD654;(&#xC804;&#xC6D0;&#xC774;
-          &#xCF1C;&#xC838; &#xC788;&#xAC70;&#xB098; &#xBE0C;&#xB808;&#xC774;&#xD06C;
-          &#xD480;&#xB9BC;) &#xC0C1;&#xD0DC;</p>
-        <p>&#xC785;&#xB2C8;&#xB2E4;. &#xC870;&#xADF8;, &#xC2A4;&#xD15D; &#xC804;&#xD6C4;&#xC9C4;
-          &#xBC0F; &#xC7AC;&#xC0DD;&#xD560; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.
-          <br
-          />
-        </p>
-        <p>
-          <img src="../../.gitbook/assets/dot (1).png" alt/>&#xD30C;&#xB780;&#xC0C9;: &#xC9C1;&#xC811; &#xAD50;&#xC2DC; &#xBAA8;&#xB4DC;&#xC5D0;&#xC11C;
-          &#xC11C;&#xBCF4; &#xD65C;&#xC131;&#xD654; &#xC0C1;&#xD0DC;&#xC785;&#xB2C8;&#xB2E4;.
-          &#xC9C1;&#xC811; &#xAD50;&#xC2DC;</p>
-        <p>&#xB9CC; &#xAC00;&#xB2A5;&#xD569;&#xB2C8;&#xB2E4;.
-          <br />
-        </p>
-        <p>
-          <img src="../../.gitbook/assets/dot (1).png" alt/>&#xBE68;&#xAC04;&#xC0C9;: &#xC5D0;&#xB7EC;&#xAC00; &#xBC1C;&#xC0DD;&#xD558;&#xC5EC;
-          &#xB85C;&#xBD07;&#xC774; &#xC815;&#xC9C0;&#xB41C; &#xC0C1;&#xD0DC;&#xC785;&#xB2C8;&#xB2E4;.
-          &#xBB38;&#xC81C;&#xB97C;</p>
-        <p>&#xD574;&#xACB0;&#xD558;&#xACE0; &#xC11C;&#xBCF4; &#xD65C;&#xC131;&#xD654;&#xB97C;
-          &#xC2DC;&#xB3C4;&#xD558;&#xC2ED;&#xC2DC;&#xC624;.
-          <br />
-        </p>
-        <p></p>
+        <ul>
+          <li>
+            <p>OFF: &#xB85C;&#xBD07; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xC804;&#xC6D0;&#xC774;
+              &#xAEBC;&#xC838; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+            <p></p>
+          </li>
+          <li>
+            <p>ON: &#xB85C;&#xBD07; &#xC2DC;&#xC2A4;&#xD15C;&#xC758; &#xC804;&#xC6D0;&#xC774;
+              &#xCF1C;&#xC838; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. LED &#xB7A8;&#xD504;&#xC758;
+              &#xC0C9;&#xC5D0; &#xB530;&#xB978;</p>
+            <p>&#xB85C;&#xBD07;&#xC758; &#xC0C1;&#xD0DC;&#xB294; &#xB2E4;&#xC74C;&#xACFC;
+              &#xAC19;&#xC2B5;&#xB2C8;&#xB2E4;.</p>
+            <ul>
+              <li>
+                <p>&#xD770;&#xC0C9;: &#xC11C;&#xBCF4; &#xD65C;&#xC131;&#xD654; &#xB300;&#xAE30;(&#xC804;&#xC6D0;&#xC774;
+                  &#xCF1C;&#xC838; &#xC788;&#xAC70;&#xB098; &#xBE0C;&#xB808;&#xC774;&#xD06C;
+                  &#xC801;&#xC6A9;) &#xB610;&#xB294; &#xC77C;&#xBC18;&#xC815;&#xC9C0; &#xC0C1;&#xD0DC;&#xC785;&#xB2C8;&#xB2E4;.
+                  <br
+                  />
+                </p>
+                <p></p>
+              </li>
+              <li>
+                <p>&#xCD08;&#xB85D;&#xC0C9;: &#xC11C;&#xBCF4; &#xD65C;&#xC131;&#xD654;(&#xC804;&#xC6D0;&#xC774;
+                  &#xCF1C;&#xC838; &#xC788;&#xAC70;&#xB098; &#xBE0C;&#xB808;&#xC774;&#xD06C;
+                  &#xD480;&#xB9BC;) &#xC0C1;&#xD0DC; &#xC785;&#xB2C8;&#xB2E4;. &#xC870;&#xADF8;,
+                  &#xC2A4;&#xD15D; &#xC804;&#xD6C4;&#xC9C4; &#xBC0F; &#xC7AC;&#xC0DD;&#xD560;
+                  &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.
+                  <br />
+                </p>
+                <p></p>
+              </li>
+              <li>
+                <p>&#xD30C;&#xB780;&#xC0C9;: &#xC9C1;&#xC811; &#xAD50;&#xC2DC; &#xBAA8;&#xB4DC;&#xC5D0;&#xC11C;
+                  &#xC11C;&#xBCF4; &#xD65C;&#xC131;&#xD654; &#xC0C1;&#xD0DC;&#xC785;&#xB2C8;&#xB2E4;.
+                  &#xC9C1;&#xC811; &#xAD50;&#xC2DC;&#xB9CC; &#xAC00;&#xB2A5;&#xD569;&#xB2C8;&#xB2E4;.
+                  <br
+                  />
+                </p>
+                <p></p>
+              </li>
+              <li>&#xBE68;&#xAC04;&#xC0C9;: &#xC5D0;&#xB7EC;&#xAC00; &#xBC1C;&#xC0DD;&#xD558;&#xC5EC;
+                &#xB85C;&#xBD07;&#xC774; &#xC815;&#xC9C0;&#xB41C; &#xC0C1;&#xD0DC;&#xC785;&#xB2C8;&#xB2E4;.
+                &#xBB38;&#xC81C;&#xB97C; &#xD574;&#xACB0;&#xD558;&#xACE0; &#xC11C;&#xBCF4;
+                &#xD65C;&#xC131;&#xD654;&#xB97C; &#xC2DC;&#xB3C4;&#xD558;&#xC2ED;&#xC2DC;&#xC624;.</li>
+            </ul>
+          </li>
+        </ul>
       </td>
     </tr>
   </tbody>
