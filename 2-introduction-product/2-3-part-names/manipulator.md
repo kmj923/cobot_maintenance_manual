@@ -67,7 +67,7 @@
       <td style="text-align:center">
         <img src="../../.gitbook/assets/6.png" alt/>
       </td>
-      <td style="text-align:center">&#xD578;&#xB4DC;&#xADF8;&#xB9BD; &#xBAA8;</td>
+      <td style="text-align:center">&#xD578;&#xB4DC;&#xADF8;&#xB9BD; &#xBAA8;&#xB4C8;</td>
       <td style="text-align:left">&#xC9C1;&#xC811; &#xAD50;&#xC2DC;&#xC5D0; &#xC0AC;&#xC6A9;&#xD569;&#xB2C8;&#xB2E4;.</td>
     </tr>
     <tr>
