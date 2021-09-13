@@ -139,5 +139,11 @@
   </tbody>
 </table>
 
+{% hint style="info" %}
+* 에어 아웃렛은 YL012와 YL015 모델에만 지원됩니다.
 
+* LED 램프는 모델에 따라 장착된 위치가 다릅니다. YL005와 YL015 모델의 경우 Upper frame cover에 LED 램프가 있습니다.
+
+* 이더넷 옵션일 경우, 에어 대신 이더넷 커넥터가 설치됩니다.
+{% endhint %}
 
