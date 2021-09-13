@@ -84,7 +84,7 @@
       <td style="text-align:center">
         <img src="../../.gitbook/assets/8.png" alt/>
       </td>
-      <td style="text-align:center">LED &#xB7A8;</td>
+      <td style="text-align:center">LED &#xB7A8;&#xD504;</td>
       <td style="text-align:left">
         <p>&#xB85C;&#xBD07;&#xC758; &#xB3D9;&#xC791; &#xC0C1;&#xD0DC;&#xB97C; &#xD45C;&#xC2DC;&#xD569;&#xB2C8;&#xB2E4;.
           <br
