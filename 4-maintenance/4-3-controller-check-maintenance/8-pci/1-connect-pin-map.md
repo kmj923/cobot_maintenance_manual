@@ -100,5 +100,3 @@
 | 6 | VP | Positive supply voltage |
 | 8 | RxD/TxD-N | Receive/Send Data-N respectively connection A plug |
 
-
-
