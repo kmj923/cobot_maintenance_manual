@@ -41,7 +41,7 @@
           <li>&#xCF00;&#xC774;&#xBE14; &#xC190;&#xC0C1; &#xC5EC;&#xBD80; &#xC721;&#xC548;
             &#xD655;&#xC778;</li>
           <li>&#xCF00;&#xC774;&#xBE14; &#xD0C0;&#xC774; &#xD480;&#xB9BC; &#xC5EC;&#xBD80;
-            &#xC721;&#xC548; &#xD655;</li>
+            &#xC721;&#xC548; &#xD655;&#xC778;</li>
         </ul>
       </td>
       <td style="text-align:left">
@@ -118,7 +118,7 @@
           <li>&#xBE0C;&#xB808;&#xC774;&#xD06C; &#xAC08;&#xB9BC; &#xC218;&#xC900; &#xC721;&#xC548;
             &#xD655;&#xC778;</li>
           <li>&#xBE0C;&#xB808;&#xC774;&#xD06C;&#xC758; &#xC774;&#xC74C; &#xBC1C;&#xC0DD;
-            &#xC5EC;&#xBD80; &#xD655;</li>
+            &#xC5EC;&#xBD80; &#xD655;&#xC778;</li>
         </ul>
       </td>
       <td style="text-align:left">
@@ -137,7 +137,7 @@
       <td style="text-align:center">O</td>
       <td style="text-align:center"></td>
       <td style="text-align:left">&#xAC01; &#xCD95;&#xC758; &#xC815;&#xBC29;&#xD5A5; &#xB610;&#xB294; &#xC5ED;&#xBC29;&#xD5A5;
-        &#xD68C;&#xC804;&#xC2DC; &#xC720;&#xACA9; &#xC720;&#xBB34; &#xD655;</td>
+        &#xD68C;&#xC804;&#xC2DC; &#xC720;&#xACA9; &#xC720;&#xBB34; &#xD655;&#xC778;</td>
       <td
       style="text-align:left">&#xC190;&#xC73C;&#xB85C; &#xC720;&#xACA9;&#xC744; &#xB290;&#xB084; &#xC218;
         &#xC5C6;&#xC744;</td>
