@@ -110,11 +110,12 @@
       <td style="text-align:left">
         <ul>
           <li>&#xBE0C;&#xB808;&#xC774;&#xD06C; &#xD574;&#xC81C; &#xC2A4;&#xC704;&#xCE58;
-            ON/OFF&#xC2DC; &#xC791;&#xB3D9; &#xD655;&#xC778; (&#xC8FC;&#xC758;: &#xBE0C;&#xB808;&#xC774;&#xD06C;
-            &#xD574;&#xC81C; &#xC2A4;&#xC704;&#xCE58; ON&#xC5D0;&#xC11C; &#xC554; &#xB610;&#xB294;
+            ON/OFF&#xC2DC; &#xC791;&#xB3D9; &#xD655;&#xC778;
+            <br>(&#xC8FC;&#xC758;: &#xBE0C;&#xB808;&#xC774;&#xD06C;
+            &#xD574;&#xC81C; &#xC2A4;&#xC704;&#xCE58; ON&#xC5D0;&#xC11C; &#xC554; &#xB610;&#xB294;</br>
             &#xB3D9;&#xC791; &#xCD95;&#xC774; &#xCD94;&#xB77D;&#xD558;&#xBBC0;&#xB85C;
-            1&#xCD08; &#xB0B4;&#xC5D0; &#xBC18;&#xB4DC;&#xC2DC; &#xBE0C;&#xB808;&#xC774;&#xD06C;
-            &#xD574;&#xC81C; &#xC2A4;&#xC704;&#xCE58;&#xB97C; OFF&#xD558;&#xC2ED;&#xC2DC;&#xC624;.)</li>
+            1&#xCD08; &#xB0B4;&#xC5D0; &#xBC18;&#xB4DC;&#xC2DC; <br>&#xBE0C;&#xB808;&#xC774;&#xD06C;
+            &#xD574;&#xC81C; &#xC2A4;&#xC704;&#xCE58;&#xB97C; OFF&#xD558;&#xC2ED;&#xC2DC;&#xC624;.)</br></li>
           <li>&#xBE0C;&#xB808;&#xC774;&#xD06C; &#xAC08;&#xB9BC; &#xC218;&#xC900; &#xC721;&#xC548;
             &#xD655;&#xC778;</li>
           <li>&#xBE0C;&#xB808;&#xC774;&#xD06C;&#xC758; &#xC774;&#xC74C; &#xBC1C;&#xC0DD;
