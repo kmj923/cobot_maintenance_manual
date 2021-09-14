@@ -73,7 +73,7 @@
 
 ![&#xADF8;&#xB9BC; 47 CC-&#xB9C1;&#xD06C; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(CombiCon male &#xCEE4;&#xB125;&#xD130;, 5&#xD540;\)](../../../.gitbook/assets/image128.png)
 
-| **번호호** | **신호** |                                                                   **설명** |
+| **번호** | **신호** |                                                                   **설명** |
 | :---: | :---: | :--- |
 | 1 | DA | Data A |
 | 2 | DB | Data B |
@@ -83,7 +83,7 @@
 
 ![&#xADF8;&#xB9BC; 48  DevcieNet &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(CombiCon male &#xCEE4;&#xB125;&#xD130;, 5 &#xD540;\)](../../../.gitbook/assets/image129.png)
 
-| **번호호** | **신호** |                                                                  **설명** |
+| **번호** | **신호** |                                                                  **설명** |
 | :---: | :---: | :--- |
 | 1 | V- | Reference potential DeviceNet supply voltage |
 | 2 | CAN\_L | CAN Low-Signal |
@@ -93,12 +93,12 @@
 
 ![&#xADF8;&#xB9BC; 49 PROFIBUS &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(DSub female &#xCEE4;&#xB125;&#xD130;, 9 &#xD540;\)](../../../.gitbook/assets/image130.png)
 
-
-
 | **번호** | **신호** |                                                                **설명** |
 | :---: | :---: | :--- |
 | 3 | RxD/TxD-P | Receive/Send Data-P respectively connection B plug |
 | 5 | DGND | Reference potential |
 | 6 | VP | Positive supply voltage |
 | 8 | RxD/TxD-N | Receive/Send Data-N respectively connection A plug |
+
+
 
