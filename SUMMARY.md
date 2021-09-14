@@ -77,7 +77,7 @@
     * [4.3.1 내부 구조](4-maintenance/4-3-controller-check-maintenance/1-internal-structure.md)
     * [4.3.2 안전 제어 모듈](4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/README.md)
       * [4.3.2.1 연결 및 표시](4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/1-connection-display.md)
-      * [4.3.2.2 로봇 시스템용 입출력 신호 연결\(TBSYS1\)](4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/4.3.2.2-tbsys1.md)
+      * [4.3.2.2 로봇 시스템용 입출력 신호 연결\(TBSYS1\)](4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/2-tbsys1.md)
       * [4.3.2.3 안전 입출력 신호 연결\(TBSDI, TBSDO\)](4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/3-tbsdi-tbsdo.md)
       * [4.3.2.4 범용 디지털 입출력 신호 연결\(TBDIO\)](4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/4-tbdio.md)
       * [4.3.2.5 범용 아날로그 입출력 신호 연결\(TBAIO\)](4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/5-tbaio.md)
