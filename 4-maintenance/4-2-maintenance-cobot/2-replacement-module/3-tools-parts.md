@@ -21,7 +21,7 @@
       </th>
       <th style="text-align:center"><b>&#xD3C9;&#xD589; &#xD540;</b>
       </th>
-      <th style="text-align:center"><b>&#xAE30;&#xD0C0; &#xBD80;</b>
+      <th style="text-align:center"><b>&#xAE30;&#xD0C0; &#xBD80;&#xD488;</b>
       </th>
     </tr>
   </thead>
@@ -215,7 +215,7 @@
       </th>
       <th style="text-align:center"><b>&#xD3C9;&#xD589; &#xD540;</b>
       </th>
-      <th style="text-align:center"><b>&#xAE30;&#xD0C0; &#xBD80;</b>
+      <th style="text-align:center"><b>&#xAE30;&#xD0C0; &#xBD80;&#xD488;</b>
       </th>
     </tr>
   </thead>
