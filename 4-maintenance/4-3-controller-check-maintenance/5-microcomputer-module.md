@@ -12,70 +12,15 @@
 
 ![&#xADF8;&#xB9BC; 39 &#xC18C;&#xD615; &#xCEF4;&#xD4E8;&#xD130; &#xBAA8;&#xB4C8; &#xC678;&#xBD80; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;](../../.gitbook/assets/image121.png)
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"><b>&#xD3EC;&#xD2B8;</b>
-      </th>
-      <th style="text-align:center"><b>&#xC6A9;&#xB3C4;</b>
-      </th>
-      <th style="text-align:center"><b>&#xC0AC;&#xC591;</b>
-      </th>
-      <th style="text-align:center"><b>&#xAC1C;&#xC218;</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">DP</td>
-      <td style="text-align:center">&#xB514;&#xC2A4;&#xD50C;&#xB808;&#xC774;</td>
-      <td style="text-align:center">Display Port</td>
-      <td style="text-align:center">1</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">LAN1, LAN2, LAN3</td>
-      <td style="text-align:center">&#xC720;&#xC120; &#xB79C;</td>
-      <td style="text-align:center">Giga LAN</td>
-      <td style="text-align:center">3</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">USB1, USB2</td>
-      <td style="text-align:center">USB</td>
-      <td style="text-align:center">USB2.0</td>
-      <td style="text-align:center">2</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">COM1, COM2</td>
-      <td style="text-align:center">&#xC9C1;&#xB82C; &#xD1B5;&#xC2E0;</td>
-      <td style="text-align:center">RS-232/422/485</td>
-      <td style="text-align:center">2</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">GPIO</td>
-      <td style="text-align:center">&#xB514;&#xC9C0;&#xD138; &#xC785;&#xCD9C;&#xB825;</td>
-      <td style="text-align:center">8 bits, DSUB-9</td>
-      <td style="text-align:center">1</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">DC IN</td>
-      <td style="text-align:center">&#xC804;&#xC6D0; &#xC785;&#xB825;</td>
-      <td style="text-align:center">DC12 ~ 24V, 10A</td>
-      <td style="text-align:center">1</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">-</td>
-      <td style="text-align:center">&#xD655;&#xC7A5; &#xC2AC;&#xB86F;</td>
-      <td style="text-align:center">PCIe x1, PCI</td>
-      <td style="text-align:center">
-        <p>2</p>
-        <p>
-          <img src="../../.gitbook/assets/image122.png" alt="&#xADF8;&#xB9BC; 40 COM &#xD3EC;&#xD2B8;(Male) &#xD540; &#xB9F5;"
-          />
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| **포트** | **용도** | **사양** | **개수** |
+| :---: | :---: | :---: | :---: |
+| DP | 디스플레이 | Display Port | 1 |
+| LAN1, LAN2, LAN3 | 유선 랜 | Giga LAN | 3 |
+| USB1, USB2 | USB | USB2.0 | 2 |
+| COM1, COM2 | 직렬 통신 | RS-232/422/485 | 2 |
+| GPIO | 디지털 입출력 | 8 bits, DSUB-9 | 1 |
+| DC IN | 전원 입력 | DC12 ~ 24V, 10A | 1 |
+| - | 확장 슬롯 | PCIe x1, PCI | 2 |
 
 ![&#xADF8;&#xB9BC; 40 COM &#xD3EC;&#xD2B8;\(Male\) &#xD540; &#xB9F5;](../../.gitbook/assets/image122.png)
 

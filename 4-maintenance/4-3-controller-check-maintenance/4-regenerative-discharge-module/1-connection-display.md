@@ -9,10 +9,45 @@
 
 회생 방전 모듈의 표시 정보는 다음과 같습니다.
 
-| **LED** |                                **용도** | **표시 내용\(점등 상태\)** |
-| :---: | :--- | :---: |
-| LED7 | 회생 저항 과열 및 방전 전류 과전류 검지 | 회생 저항 온도 초과\(95℃\) 또는 방전 전류 초과\(15A\) |
-| LED8 | 회생 저항 단선 검지 | 회생 저항 연결이 끊어짐\(회생 동작 시에도 표시\) |
-| LED9 | 회생 동작 검지 | 회생 동작 중 |
-| LED10 | 회생 오버타임 검지 | 10 ms 이상 회생 동작 발생 |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"><b>LED</b>
+      </th>
+      <th style="text-align:left"><b>                               &#xC6A9;&#xB3C4;</b>
+      </th>
+      <th style="text-align:center"><b>&#xD45C;&#xC2DC; &#xB0B4;&#xC6A9;(&#xC810;&#xB4F1; &#xC0C1;&#xD0DC;)</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">LED7</td>
+      <td style="text-align:left">&#xD68C;&#xC0DD; &#xC800;&#xD56D; &#xACFC;&#xC5F4; &#xBC0F; &#xBC29;&#xC804;
+        &#xC804;&#xB958; &#xACFC;&#xC804;&#xB958; &#xAC80;&#xC9C0;</td>
+      <td style="text-align:center">
+        <p>&#xD68C;&#xC0DD; &#xC800;&#xD56D; &#xC628;&#xB3C4; &#xCD08;&#xACFC;(95&#x2103;)</p>
+        <p>&#xB610;&#xB294; &#xBC29;&#xC804; &#xC804;&#xB958; &#xCD08;&#xACFC;(15A)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">LED8</td>
+      <td style="text-align:left">&#xD68C;&#xC0DD; &#xC800;&#xD56D; &#xB2E8;&#xC120; &#xAC80;&#xC9C0;</td>
+      <td
+      style="text-align:center">&#xD68C;&#xC0DD; &#xC800;&#xD56D; &#xC5F0;&#xACB0;&#xC774; &#xB04A;&#xC5B4;&#xC9D0;(&#xD68C;&#xC0DD;
+        &#xB3D9;&#xC791; &#xC2DC;&#xC5D0;&#xB3C4; &#xD45C;&#xC2DC;)</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">LED9</td>
+      <td style="text-align:left">&#xD68C;&#xC0DD; &#xB3D9;&#xC791; &#xAC80;&#xC9C0;</td>
+      <td style="text-align:center">&#xD68C;&#xC0DD; &#xB3D9;&#xC791; &#xC911;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">LED10</td>
+      <td style="text-align:left">&#xD68C;&#xC0DD; &#xC624;&#xBC84;&#xD0C0;&#xC784; &#xAC80;&#xC9C0;</td>
+      <td
+      style="text-align:center">10 ms &#xC774;&#xC0C1; &#xD68C;&#xC0DD; &#xB3D9;&#xC791; &#xBC1C;&#xC0DD;</td>
+    </tr>
+  </tbody>
+</table>
 
