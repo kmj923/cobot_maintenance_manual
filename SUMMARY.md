@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Maintenance Manual for Collaborative Robot](README.md)
+* [협동로봇 보수설명서](README.md)
 * [이 설명서에 대하여](about-this-manual/README.md)
   * [저작권](about-this-manual/copyright.md)
   * [표기규약](about-this-manual/notation.md)
-  * [안전 주의 사항](about-this-manual/safety-notice.md)
+* [안전 주의 사항](safety-notice.md)
 * [1. 안전](1-safety/README.md)
   * [1.1 안전 요구 사항](1-safety/1-1-safety-requirements/README.md)
     * [1.1.1 적용 표준](1-safety/1-1-safety-requirements/1-applicable-standards.md)
@@ -44,6 +44,7 @@
     * [3.3.1 툴 플랜지 연결부](3-product-install/3-3-robot-interface/1-tool-flange-connection-point/README.md)
       * [3.3.1.1 T4071017041-001 \(TE\) 핀 맵](3-product-install/3-3-robot-interface/1-tool-flange-connection-point/1-t407107041-pin.md)
       * [3.3.1.2 T41171130012-001 \(TE\) 핀 맵](3-product-install/3-3-robot-interface/1-tool-flange-connection-point/2-t41171130012-pin.md)
+      * [3.3.1.3 에어 호스](3-product-install/3-3-robot-interface/1-tool-flange-connection-point/3-air-hose.md)
     * [3.3.2 외부 장치 인터페이스](3-product-install/3-3-robot-interface/2-external-device-interface/README.md)
       * [3.3.2.1 터미널 블록\(TB1\): 범용 아날로그 입출력 신호](3-product-install/3-3-robot-interface/2-external-device-interface/1-tb1.md)
       * [3.3.2.2 터미널 블록\(TB2\): 전용 안전 신호 입력](3-product-install/3-3-robot-interface/2-external-device-interface/2-tb2.md)
