@@ -1,52 +1,55 @@
-# 4.3.4.1 연결 및 표시
+# 4.3.4.1 Connection and display
 
-회생 방전 모듈의 커넥터 배치, 용도 및 접속 장치는 다음과 같습니다.
+The connector layout, usage, and connecting devices used by the RDM are as follows:
 
-| **커넥터** |                                     **용도** | **외부 연결 장치** |
+| Connector |                          **Usage** | External connecting device |
 | :---: | :--- | :---: |
-| CNPM3 | DC48V 전원\(모터용\) 라인 연결 | 전원 충전 모듈\(PPM\) CNPM3 |
-| CNRDM | 상태 정보 신호 연결 | 안전 제어 모듈\(SCM\) CNPMD |
+| CNPM3 | Connection of 48 V DC power line \(for the motor\)  | Power precharge module \(PPM\) CNPM3 |
+| CNRDM | Connection of state information signals | Safety control module \(SCM\) CNPMD |
 
-회생 방전 모듈의 표시 정보는 다음과 같습니다.
+The details of the state display of the RDM are as follows:
 
 <table>
   <thead>
     <tr>
       <th style="text-align:center"><b>LED</b>
       </th>
-      <th style="text-align:left"><b>                               &#xC6A9;&#xB3C4;</b>
+      <th style="text-align:left"><b>                         Usage</b>
       </th>
-      <th style="text-align:center"><b>&#xD45C;&#xC2DC; &#xB0B4;&#xC6A9;(&#xC810;&#xB4F1; &#xC0C1;&#xD0DC;)</b>
-      </th>
+      <th style="text-align:center">Display details (lamp state)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align:center">LED7</td>
-      <td style="text-align:left">&#xD68C;&#xC0DD; &#xC800;&#xD56D; &#xACFC;&#xC5F4; &#xBC0F; &#xBC29;&#xC804;
-        &#xC804;&#xB958; &#xACFC;&#xC804;&#xB958; &#xAC80;&#xC9C0;</td>
+      <td style="text-align:left">Detection of overheating of the regenerative discharge resistor or overcurrent
+        of the discharge current</td>
       <td style="text-align:center">
-        <p>&#xD68C;&#xC0DD; &#xC800;&#xD56D; &#xC628;&#xB3C4; &#xCD08;&#xACFC;(95&#x2103;)</p>
-        <p>&#xB610;&#xB294; &#xBC29;&#xC804; &#xC804;&#xB958; &#xCD08;&#xACFC;(15A)</p>
+        <p>Overheating of the regenerative discharge resistor (95&#xB0;C)
+          <br />
+        </p>
+        <p>or Overcurrent of the discharge current (15 A)
+          <br />
+        </p>
+        <p></p>
       </td>
     </tr>
     <tr>
       <td style="text-align:center">LED8</td>
-      <td style="text-align:left">&#xD68C;&#xC0DD; &#xC800;&#xD56D; &#xB2E8;&#xC120; &#xAC80;&#xC9C0;</td>
+      <td style="text-align:left">Detection of disconnection of the regenerative discharge resistor</td>
       <td
-      style="text-align:center">&#xD68C;&#xC0DD; &#xC800;&#xD56D; &#xC5F0;&#xACB0;&#xC774; &#xB04A;&#xC5B4;&#xC9D0;(&#xD68C;&#xC0DD;
-        &#xB3D9;&#xC791; &#xC2DC;&#xC5D0;&#xB3C4; &#xD45C;&#xC2DC;)</td>
+      style="text-align:center">The regenerative discharge resistor is disconnected (displayed even during
+        the regenerative discharge operation)</td>
     </tr>
     <tr>
       <td style="text-align:center">LED9</td>
-      <td style="text-align:left">&#xD68C;&#xC0DD; &#xB3D9;&#xC791; &#xAC80;&#xC9C0;</td>
-      <td style="text-align:center">&#xD68C;&#xC0DD; &#xB3D9;&#xC791; &#xC911;</td>
+      <td style="text-align:left">Detection of the regenerative discharge operation</td>
+      <td style="text-align:center">Under regenerative discharge operation</td>
     </tr>
     <tr>
       <td style="text-align:center">LED10</td>
-      <td style="text-align:left">&#xD68C;&#xC0DD; &#xC624;&#xBC84;&#xD0C0;&#xC784; &#xAC80;&#xC9C0;</td>
-      <td
-      style="text-align:center">10 ms &#xC774;&#xC0C1; &#xD68C;&#xC0DD; &#xB3D9;&#xC791; &#xBC1C;&#xC0DD;</td>
+      <td style="text-align:left">Detection of regenerative discharge overtime</td>
+      <td style="text-align:center">Occurrence of regenerative discharge operation for 10 ms or longer</td>
     </tr>
   </tbody>
 </table>

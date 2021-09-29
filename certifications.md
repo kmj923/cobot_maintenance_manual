@@ -1,14 +1,14 @@
-# 인증 정보
+# Certifications
 
-현대로보틱스는 안정적인 로봇 시스템을 제공하기 위해 다음의 공인 시험 및 인증기관에서 로봇을 인증했습니다.
+Hyundai Robotics acquired certificates of the robot from the following official testing and certification bodies for supplying stable robot systems:
 
-## CE 인증
+## CE Certifications
 
 ![](.gitbook/assets/image144.png)
 
 ![](.gitbook/assets/image145.png)
 
-## NRTL 인증
+## NRTL Certifications
 
 ![](.gitbook/assets/image146.png)
 
@@ -16,15 +16,19 @@
 
 ![](.gitbook/assets/image148.png)
 
-## 자율안전확인 신고\(KCs\) \(YL005\)
+## Autonomous safety verification reporting certificate\(KCs\) \(YL005\)
 
 ![](.gitbook/assets/image149.png)
 
-## 자율안전확인 신고\(KCs\) \(YL012\)
+## Autonomous safety verification reporting certificate\(KCs\) \(YL012\)
 
 ![](.gitbook/assets/image150.png)
 
-## 자율안전확인 신고\(KCs\) \(YL015\)
+## Autonomous safety verification reporting certificate\(KCs\) \(YL015\)
 
 ![](.gitbook/assets/image151.png)
+
+## Functional Safety certificate
+
+![](.gitbook/assets/image148.png)
 

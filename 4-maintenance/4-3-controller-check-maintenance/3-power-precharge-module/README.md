@@ -1,6 +1,6 @@
-# 4.3.3 전원 충전 모듈
+# 4.3.3 Power precharge module \(PPM\)
 
-전원 충전 모듈\(PPM: Power Pre-charge Module\)은 협동로봇에 설치된 조인트 액추에이터의 모터 구동용 전원을 사용하기 전에 미리 충전하는 모듈입니다. 이 모듈은 충전 계통의 개폐를 위한 릴레이와 돌입 전류를 방지하기 위한 저항으로 구성되어 있습니다.
+The PPM precharges power for driving the motor of the joint actuator installed for the collaborative robot. It is composed of relays that open/close the charging system and a resistor that prevents inrush current..
 
-![&#xADF8;&#xB9BC; 35 &#xC804;&#xC6D0; &#xCDA9;&#xC804; &#xBAA8;&#xB4C8;\(PPM\)](../../../.gitbook/assets/image117.png)
+![Figure 36 Power precharge module \(PPM\)](../../../.gitbook/assets/image117.png)
 

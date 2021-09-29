@@ -1,34 +1,323 @@
-# 3.3.2.4 D-SUB 25 커넥터\(SDIO\): 범용 안전 신호 입출력
+# 3.3.2.4 D-sub 25-pin connector \(SDIO\): common digital I/O
 
-외부의 안전 신호용 디지털 입출력 신호는 D-SUB 24커넥터\(SDIO\)를 통하여 8개씩 연결할 수 있습니다. 비상 정지 장치, 보호\(방호\) 장치 등 협동로봇의 안전 시스템을 구성할 수 있습니다.
+You can connect digital I/O signals for external safety signals, eight at a time, to the D-sub 24-pin connector \(SDIO\). For more details on signal connection, see “**General purpose safety I/O signals**.”
 
-안전 입출력 신호는 용도에 따라 “협동로봇 기능 설명서”를 참조하여 설정하십시오. 예를 들어, 티치 펜던트를 사용하지 않거나 인에이블링 스위치를 추가할 경우에는 범용 안전 신호 입력에 배선하고 입력 신호를 할당합니다. 할당할 수 있는 입출력 신호의 종류는 다음과 같습니다.
+Set the safety I/O signals according to usages, referring to “**Safety Function Manual for Collaborative Robots**.” For example, if you will not use the teach pendant and will use an enabling switch, connect it to the common safety signal input and assign input signals. The types of I/O signals that can be assigned are as follows:
 
-* 입력 신호: STOP0, STOP1, STOP2, SOS, Reduced mode, Enable SW, Motor on, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space\#1-\#12
+* Input signals: STOP0, STOP1, STOP2, SOS, Reduced mode, Enable SW, Motor on, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space \#1 - \#12
 
-* 출력 신호: STO activation status, SOS activation status, Reduce mode activation status, Not reduced mode, Robot moving, Robot not stopping, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space status\#1-\#12, Violation alarm, TCP speed violation, TCP orientation violation, TCP force violation, Collision detection, Momentum violation, Power violation, SOS violation, Joint position violation, Joint speed violation, Cartesian space violation\#1-\#12
+* Output signals: STO activation status, SOS activation status, Reduced mode activation status, Not reduced mode, Robot moving, Robot not stopping, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space status \#1 - \#12, Violation alarm, TCP speed violation, TCP orientation violation, TCP force violation, Collision detection, Momentum violation, Power violation, SOS violation, Joint position violation, Joint speed violation, Cartesian space violation \#1 - \#12
 
 ![](../../../.gitbook/assets/d-sub25.png)
 
-![\*&#xC81C;&#xC5B4;&#xAE30; &#xB0B4;&#xBD80;\(SCM TBSIO\)](../../../.gitbook/assets/d-sub25_2.png)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Pin number</th>
+      <th style="text-align:center">1</th>
+      <th style="text-align:center">2</th>
+      <th style="text-align:center">3</th>
+      <th style="text-align:center">4</th>
+      <th style="text-align:center">5</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">Name</td>
+      <td style="text-align:center">SDIN0</td>
+      <td style="text-align:center">SDIN1</td>
+      <td style="text-align:center">SDIN2</td>
+      <td style="text-align:center">SDIN3</td>
+      <td style="text-align:center">SDIN4</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Usage</td>
+      <td style="text-align:center">
+        <p>Safety signal input 0</p>
+        <p>(Channel 1)</p>
+      </td>
+      <td style="text-align:center">
+        <p>Safety signal input 1</p>
+        <p>(Channel 1)</p>
+      </td>
+      <td style="text-align:center">
+        <p>Safety signal input 2</p>
+        <p>(Channel 1)</p>
+      </td>
+      <td style="text-align:center">
+        <p>Safety signal input 3</p>
+        <p>(Channel 1)</p>
+      </td>
+      <td style="text-align:center">
+        <p>Safety signal input 4</p>
+        <p>(Channel 2)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Internal connections of the controller</td>
+      <td style="text-align:center">
+        <p>SCM TBSDI</p>
+        <p>Pin 9</p>
+      </td>
+      <td style="text-align:center">
+        <p>SCM TBSDI</p>
+        <p>Pin 10</p>
+      </td>
+      <td style="text-align:center">
+        <p>SCM TBSDI</p>
+        <p>Pin 11</p>
+      </td>
+      <td style="text-align:center">
+        <p>SCM TBSDI</p>
+        <p>Pin 12</p>
+      </td>
+      <td style="text-align:center">
+        <p>SCM TBSDI</p>
+        <p>Pin 13</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-이 신호는 제어기 내부에 설치된 안전 제어 모듈\(SCM\)에 연결되어 있습니다. 신호 연결에 대한 자세한 내용은 “**4.3.2.3 안전 입출력 신호 연결\(TBSDI, TBSDO\)**”을 참조하십시오.
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Pin number</th>
+      <th style="text-align:center">6</th>
+      <th style="text-align:center">7</th>
+      <th style="text-align:center">8</th>
+      <th style="text-align:center">9</th>
+      <th style="text-align:center">10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">Name</td>
+      <td style="text-align:center">SDIN5</td>
+      <td style="text-align:center">SDIN6</td>
+      <td style="text-align:center">SDIN7</td>
+      <td style="text-align:center">SIO_POW1</td>
+      <td style="text-align:center">SIO_POW2</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Usage</td>
+      <td style="text-align:center">
+        <p>Safety signal input 5</p>
+        <p>(Channel 2)</p>
+      </td>
+      <td style="text-align:center">
+        <p>Safety signal input 6</p>
+        <p>(Channel 2)</p>
+      </td>
+      <td style="text-align:center">
+        <p>Safety signal input 7</p>
+        <p>(Channel 2)</p>
+      </td>
+      <td style="text-align:center">Safety signal input common (Channel 1)</td>
+      <td style="text-align:center">Safety signal input common (Channel 1)</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Internal connections of the controller</td>
+      <td style="text-align:center">
+        <p>SCM TBSDI</p>
+        <p>Pin 14</p>
+      </td>
+      <td style="text-align:center">
+        <p>SCM TBSDI</p>
+        <p>Pin 15</p>
+      </td>
+      <td style="text-align:center">
+        <p>SCM TBSDI</p>
+        <p>Pin 16</p>
+      </td>
+      <td style="text-align:center">SCM TBSDI
+        <br />Pin 1, 2</td>
+      <td style="text-align:center">SCM TBSDI
+        <br />Pin 3, 4</td>
+    </tr>
+  </tbody>
+</table>
 
-![&#xADF8;&#xB9BC; 23 &#xBC94;&#xC6A9; &#xC548;&#xC804; &#xC785;&#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0; &#xBC29;&#xBC95;](../../../.gitbook/assets/d-sub25_3.png)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Pin number</th>
+      <th style="text-align:center">11</th>
+      <th style="text-align:center">12</th>
+      <th style="text-align:center">13</th>
+      <th style="text-align:center">14</th>
+      <th style="text-align:center">15</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">Name</td>
+      <td style="text-align:center">SIO_POW3</td>
+      <td style="text-align:center">SIO_POW4</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">SDOUT0</td>
+      <td style="text-align:center">SDOUT1</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Usage</td>
+      <td style="text-align:center">Safety signal input common (Channel 2)</td>
+      <td style="text-align:center">Safety signal input common (Channel 2)</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">Safety signal output 0 (Channel 1)</td>
+      <td style="text-align:center">Safety signal output 1 (Channel 1)</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Internal connections of the controller</td>
+      <td style="text-align:center">SCM TBSDI
+        <br />Pin 5, 6</td>
+      <td style="text-align:center">SCM TBSDI
+        <br />Pin 7, 8</td>
+      <td style="text-align:center">-</td>
+      <td style="text-align:center">
+        <p>SCM TBSDO</p>
+        <p>Pin 9</p>
+      </td>
+      <td style="text-align:center">
+        <p>SCM TBSDO</p>
+        <p>Pin 10</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-![&#xADF8;&#xB9BC; 24 &#xBC94;&#xC6A9; &#xC548;&#xC804; &#xC785;&#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0; &#xBC29;&#xBC95;\(PLC&#xB958;\)](../../../.gitbook/assets/d-sub25_4.png)
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Pin number</th>
+      <th style="text-align:left">16</th>
+      <th style="text-align:left">17</th>
+      <th style="text-align:left">18</th>
+      <th style="text-align:left">19</th>
+      <th style="text-align:left">20</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Internal of the controller</td>
+      <td style="text-align:left">11</td>
+      <td style="text-align:left">12</td>
+      <td style="text-align:left">13</td>
+      <td style="text-align:left">14</td>
+      <td style="text-align:left">15</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Name</td>
+      <td style="text-align:left">SDOUT2</td>
+      <td style="text-align:left">SDOUT3</td>
+      <td style="text-align:left">SDOUT4</td>
+      <td style="text-align:left">SDOUT5</td>
+      <td style="text-align:left">SDOUT6</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Usage</td>
+      <td style="text-align:left">Safety signal output 2 (Channel 1)</td>
+      <td style="text-align:left">Safety signal output 3 (Channel 1)</td>
+      <td style="text-align:left">Safety signal output 4 (Channel 2)</td>
+      <td style="text-align:left">Safety signal output 5 (Channel 2)</td>
+      <td style="text-align:left">Safety signal output 6 (Channel 2)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Internal connections of the controller</td>
+      <td style="text-align:left">
+        <p>SCM TBSDO</p>
+        <p>Pin 11</p>
+      </td>
+      <td style="text-align:left">
+        <p>SCM TBSDO</p>
+        <p>Pin 12</p>
+      </td>
+      <td style="text-align:left">
+        <p>SCM TBSDO</p>
+        <p>Pin 13</p>
+      </td>
+      <td style="text-align:left">
+        <p>SCM TBSDO</p>
+        <p>Pin 14</p>
+      </td>
+      <td style="text-align:left">
+        <p>SCM TBSDO</p>
+        <p>Pin 15</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Pin number</th>
+      <th style="text-align:left">21</th>
+      <th style="text-align:left">22</th>
+      <th style="text-align:left">23</th>
+      <th style="text-align:left">24</th>
+      <th style="text-align:left">25</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Internal of the controller</td>
+      <td style="text-align:left">16</td>
+      <td style="text-align:left">1, 2</td>
+      <td style="text-align:left">3, 4</td>
+      <td style="text-align:left">5, 6</td>
+      <td style="text-align:left">7, 8</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Name</td>
+      <td style="text-align:left">SDOUT7</td>
+      <td style="text-align:left">SIO_GND1</td>
+      <td style="text-align:left">SIO_GND1</td>
+      <td style="text-align:left">SIO_GND2</td>
+      <td style="text-align:left">SIO_GND2</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Usage</td>
+      <td style="text-align:left">Safety signal output 7 (Channel 2)</td>
+      <td style="text-align:left">Safety signal output common (Channel 1)</td>
+      <td style="text-align:left">Safety signal output common (Channel 1)</td>
+      <td style="text-align:left">Safety signal output common (Channel 2)</td>
+      <td style="text-align:left">Safety signal output common (Channel 2)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Internal connections of the controller</td>
+      <td style="text-align:left">
+        <p>SCM TBSDO</p>
+        <p>Pin 16</p>
+      </td>
+      <td style="text-align:left">SCM TBSDO
+        <br />Pin 1, 2</td>
+      <td style="text-align:left">SCM TBSDO
+        <br />Pin 3, 4</td>
+      <td style="text-align:left">SCM TBSDO
+        <br />Pin 5, 6</td>
+      <td style="text-align:left">SCM TBSDO
+        <br />Pin 7, 8</td>
+    </tr>
+  </tbody>
+</table>
+
+This signal is connected to the Safety control module installed inside the controller. For more details on signal connection, refer to “[**4.3.2.3 Safety I/O signal connection \(TBSDI, TBSDO\)**](../../../4-maintenance/4-3-controller-check-maintenance/2-safety-control-module/3-tbsdi-tbsdo.md).”
+
+![Figure 24 Method for connecting universal safety input and output signals](../../../.gitbook/assets/d-sub25_3.png)
+
+![Figure 25 Method for connecting universal safety input and output signals \(PLCs\)](../../../.gitbook/assets/d-sub25_4.png)
 
 {% hint style="warning" %}
-\[주의\]
+**\[Caution\]**
 
-* 안전 신호와 일반 I/O 신호를 구분하여 안전 PLC 이외의 다른 PLC에는 절대 안전 신호를 연결하지 마십시오. 안전 정지 기능이 오동작하여 신체에 상해를 입는 등 안전 사고가 발생할 수 있습니다.
+* Separate safety signals and common I/O signals, and never connect safety signals to other PLCs than safety PLCs. If you connect safety signals to other PLCs, it will lead to the malfunction of the safety stop function and may cause safety accidents, including physical injuries.
 
-* 모든 안전 등급의 입출력은 이중화되어 있습니다. 해당 채널은 반드시 분리하여 신호 장애로 인한 안전 기능의 미작동을 방지하십시오.
+* All the I/Os of safety grade are of redundancy structure. Make sure to separate the relevant channels to prevent signal faults from compromising the safety function.
 
-* 모든 유형의 배선, 단자 및 전기 관련 작업을 수행하기 전에는 반드시 제품의 전원을 차단하십시오.
+* Make sure to power off the product before carrying out any types of wiring, termination, and electrical work.
 
-* 당사에서는 고객 부주의, 조작 미숙 및 과실로 인한 제품의 손상 및 파손에 대해 책임지지 않습니다. 절대 무단으로 제품을 개조, 분해 및 수리하지 마십시오.
+* Hyundai Robotics will not take responsibility for product damages caused by the customer’s carelessness, unskillful operation, and other errors. Never arbitrarily modify, disassemble, or repair the product.
 
-* 로봇을 설치하기 전에 안전 기능을 반드시 확인하고 정기적으로 이상 유무를 점검하십시오.
+* Make sure to check the safety functions before robot installation and check for anomalies at regular intervals afterward.
 {% endhint %}
 

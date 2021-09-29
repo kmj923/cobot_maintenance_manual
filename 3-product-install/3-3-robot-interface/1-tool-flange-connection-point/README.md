@@ -1,13 +1,12 @@
-# 3.3.1 툴 플랜지 연결부
+# 3.3.1 Tool flange connection point
 
-협동로봇 선단 툴 플랜지의 연결 단자를 이용하여 툴을 연결합니다.
+Connect the tool to the connection port of the tool flange at the tip of the collaborative robot.
 
-![&#xADF8;&#xB9BC; 15 &#xD234; &#xD50C;&#xB79C;&#xC9C0;&#xC758; &#xC5F0;&#xACB0;&#xBD80;](../../../.gitbook/assets/tool_flange.png)
+![Figure 15 Tool flange connection point](../../../.gitbook/assets/tool_flange.png)
 
-| **번호** |                                                                           **설명** |
+| **No** |                                                                           ****Description |
 | :---: | :--- |
-|  ![](../../../.gitbook/assets/1.png)  | 이더캣 연결 단자\(T4071017041-001 \(TE\)\): 이더캣 통신 |
-|  ![](../../../.gitbook/assets/2.png)  | 툴 I/O 연결 단자\(T41171130012-001 \(TE\)\): 툴 동작 제어 |
-
-
+|  ![](../../../.gitbook/assets/1.png)  | EtherCAT connection port \(T4031017041-000 \(TE\)\): for EtherCAT communication |
+|  ![](../../../.gitbook/assets/2.png)  | Tool I/O connection port \(T4131012121-000 \(TE\)\): for controlling tool motion |
+|  ![](../../../.gitbook/assets/3.png)  | Air outlet \(YL012, YL015\): Pneumatic hoses \(ø3.2, 2\) are connected and used for the movement of the tools.  |
 

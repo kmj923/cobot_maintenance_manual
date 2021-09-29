@@ -1,18 +1,17 @@
-# 4.3.8.1 커넥터 핀 맵
+# 4.3.8.1 Connect pin map
 
-통신에 사용하는 커넥터의 핀 구성은 PCB 통신 카드에 따라 다릅니다.
+The pin composition of communication connectors varies depending on PCI communication cards.
 
-![&#xADF8;&#xB9BC; 46 RJ45 &#xC18C;&#xCF13;&#xC758; &#xC774;&#xB354;&#xB137; &#xD540; &#xD560;&#xB2F9;](../../../.gitbook/assets/image127.png)
+![Figure 47 Ethernet pin assignments of RJ45 sockets](../../../.gitbook/assets/image127.png)
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center"><b>&#xBC88;&#xD638;</b>
+      <th style="text-align:center"><b>No</b>
       </th>
-      <th style="text-align:center"><b>&#xC2E0;&#xD638;</b>
+      <th style="text-align:center"><b>Signal</b>
       </th>
-      <th style="text-align:left"><b>                                                                       &#xC124;&#xBA85;</b>
-      </th>
+      <th style="text-align:left"><b>                                                </b>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -71,9 +70,9 @@
   </tbody>
 </table>
 
-![&#xADF8;&#xB9BC; 47 CC-&#xB9C1;&#xD06C; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(CombiCon male &#xCEE4;&#xB125;&#xD130;, 5&#xD540;\)](../../../.gitbook/assets/image128.png)
+![Figure 48 CC-link interface \(CombiCon male connector, 5-pin\)](../../../.gitbook/assets/image128.png)
 
-| **번호** | **신호** |                                                                   **설명** |
+| **No** | **Signal** |                                             ****Description |
 | :---: | :---: | :--- |
 | 1 | DA | Data A |
 | 2 | DB | Data B |
@@ -81,9 +80,9 @@
 | 4 | SLD | Shield |
 | 5 | FG | Field Ground |
 
-![&#xADF8;&#xB9BC; 48  DevcieNet &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(CombiCon male &#xCEE4;&#xB125;&#xD130;, 5 &#xD540;\)](../../../.gitbook/assets/image129.png)
+![Figure 49 DeviceNet interface \(CombiCon male connector, 5-pin\)](../../../.gitbook/assets/image129.png)
 
-| **번호** | **신호** |                                                                  **설명** |
+| **No** | **Signal** |                                             ****Description |
 | :---: | :---: | :--- |
 | 1 | V- | Reference potential DeviceNet supply voltage |
 | 2 | CAN\_L | CAN Low-Signal |
@@ -91,9 +90,9 @@
 | 4 | CAN\_H | CAN High-Signal |
 | 5 | V+ | +24 V DeviceNet supply voltage |
 
-![&#xADF8;&#xB9BC; 49 PROFIBUS &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(DSub female &#xCEE4;&#xB125;&#xD130;, 9 &#xD540;\)](../../../.gitbook/assets/image130.png)
+![Figure 50 PROFIBUS interface \(Dsub female connector, 9-pin](../../../.gitbook/assets/image130.png)
 
-| **번호** | **신호** |                                                                **설명** |
+| **No** | **Signal** |                                          ****Description |
 | :---: | :---: | :--- |
 | 3 | RxD/TxD-P | Receive/Send Data-P respectively connection B plug |
 | 5 | DGND | Reference potential |

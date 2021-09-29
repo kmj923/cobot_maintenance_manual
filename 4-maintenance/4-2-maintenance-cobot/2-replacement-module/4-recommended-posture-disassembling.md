@@ -1,19 +1,104 @@
-# 4.2.2.4 통합 구동 모듈 분해 시 추천 자세
+# 4.2.2.4 Recommended posture in disassembling the integrated driving module
 
-통합 구동 모듈 교체 시 축을 다음의 자세로 설정해 두면 용이하게 작업할 수 있습니다.
+In replacing the integrated driving module, setting the axis at the following posture will facilitate the disassembling work.
 
-예를 들어, YL012의 H축의 모듈을 교체한다면, 95도나 65도, 35도와 같이 기준 각도\(95\)에서 각도 간격\(30\)을 더하거나 뺀 만큼의 각도로 로봇을 움직여 자세를 잡아 두면 더욱 편하게 분해할 수 있습니다.
+For example, in replacing the module of the H-axis of YL012, the disassembling work will be easier if the robot’s posture is set at angles of 95°, 65°, or 35°, which are the angles at which the angular interval \(30°\) is added or subtracted from the reference angle \(95°\).
 
-| **모델** | **각도** | **S** | **H** | **V** | **R2** | **B** | **R1** |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| YL005 | 기준 각도 | 관계 없 | 관계 없음 | -30 | 30 | -15 | 관계 없음 |
-|  | 각도 간격 | 관계 없음 | 관계 없음 | 30 | 30 | 30 | 관계 없음 |
-| YL012 | 기준 각도 | -40 | 95 | -140 | 108.5 | 63.5 | 관계 없음 |
-|  | 각도 간격 | 30 | 30 | 30 | 30 | 30 | 관계 없음 |
-| YL015 | 기준 각도 | -40 | 95 | 130 | -161 | 86 | 관계 없음 |
-|  | 각도 간격 | 30 | 30 | 30 | 30 | 30 | 관계 없음 |
+
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Model</th>
+      <th style="text-align:center">angle</th>
+      <th style="text-align:center"><b>S</b>
+      </th>
+      <th style="text-align:center"><b>H</b>
+      </th>
+      <th style="text-align:center"><b>V</b>
+      </th>
+      <th style="text-align:center"><b>R2</b>
+      </th>
+      <th style="text-align:center"><b>B</b>
+      </th>
+      <th style="text-align:center"><b>R1</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">YL005</td>
+      <td style="text-align:center">Reference angle</td>
+      <td style="text-align:center">Not applicable</td>
+      <td style="text-align:center">Not applicable</td>
+      <td style="text-align:center">-30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">-15</td>
+      <td style="text-align:center">Not applicable</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>Angular</p>
+        <p>gap</p>
+      </td>
+      <td style="text-align:center">Not applicable</td>
+      <td style="text-align:center">Not applicable</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">Not applicable</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">YL012</td>
+      <td style="text-align:center">Reference angle</td>
+      <td style="text-align:center">-40</td>
+      <td style="text-align:center">95</td>
+      <td style="text-align:center">-140</td>
+      <td style="text-align:center">108.5</td>
+      <td style="text-align:center">63.5</td>
+      <td style="text-align:center">Not applicable</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>Angular</p>
+        <p>gap</p>
+      </td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">Not applicable</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">YL015</td>
+      <td style="text-align:center">Reference angle</td>
+      <td style="text-align:center">-40</td>
+      <td style="text-align:center">95</td>
+      <td style="text-align:center">130</td>
+      <td style="text-align:center">-161</td>
+      <td style="text-align:center">86</td>
+      <td style="text-align:center">Not applicable</td>
+    </tr>
+    <tr>
+      <td style="text-align:center"></td>
+      <td style="text-align:center">
+        <p>Angular</p>
+        <p>gap</p>
+      </td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">30</td>
+      <td style="text-align:center">Not applicable</td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="warning" %}
-**\[주의\]**: 로봇을 구동할 수 없으면, 1차로 모듈을 분해한 후 브레이크 해제 모듈을 이용해 모듈을 회전시켜 분해하십시오.
+**\[Caution\]**: If the robot cannot be driven, carry out the primary disassembling of the module, then rotate the module using the brake release module. Carry out the rest of the disassembling. 
 {% endhint %}
 

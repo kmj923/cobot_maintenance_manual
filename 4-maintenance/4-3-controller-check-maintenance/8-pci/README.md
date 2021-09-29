@@ -1,22 +1,22 @@
-# 4.3.8 PCI 통신 카드\(옵션\)
+# 4.3.8 PCI communication card \(optional\)
 
-협동로봇 제어기에서 PCI 통신 카드로 산업용 통신을 사용합니다. 보편적인 모델인 이더넷용 PCI 통신 카드를 기준으로 사용할 수 있는PCI 통신 카드의 모델과 카드의 구성 및 기능에 대해 설명합니다. 자세한 내용은 Hilscher사의 “**PC Cards CIFX 50 모델**”을 참조하십시오\(PC Cards CIFX 50 50E 70E 100EH UM 51 EN\).
+The peripheral component interconnect \(PCI\) communication installed in the collaborative robot controller enables industrial communication. This section describes the models, composition, and functions of a PCI communication card for Ethernet, which is a general model. For more details, see Hilscher’s “**PC Cards CIFX 50 Mode**l” \(PC Cards CIFX 50 50E 70E 100EH UM 51 EN\).
 
-PCI 통신 카드의 각 부분의 이름과 기능, 모델은 다음과 같습니다.
+The names and functions of the PCI communication card models are as follows:
 
 
 
-![&#xADF8;&#xB9BC; 44 PCI &#xD1B5;&#xC2E0; &#xCE74;&#xB4DC; &#xC678;&#xAD00;\(&#xC88C;\) / &#xC804;&#xBA74;\(&#xC6B0;\)](../../../.gitbook/assets/image125.png)
+
+
+![Figure 45 Outside view \(left\) and front view \(right\) of PCI communication card](../../../.gitbook/assets/image125.png)
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center"><b>&#xBC88;&#xD638;</b>
+      <th style="text-align:center"><b>No</b>
       </th>
-      <th style="text-align:center"><b>&#xC774;&#xB984;</b>
-      </th>
-      <th style="text-align:left"><b>                                                            &#xC124;&#xBA85;</b>
-      </th>
+      <th style="text-align:center">Name</th>
+      <th style="text-align:left"><b>                                      </b>Description</th>
     </tr>
   </thead>
   <tbody>
@@ -24,50 +24,42 @@ PCI 통신 카드의 각 부분의 이름과 기능, 모델은 다음과 같습�
       <td style="text-align:center">
         <img src="../../../.gitbook/assets/1.png" alt="Adobe Systems" />
       </td>
-      <td style="text-align:center">&#xB85C;&#xD130;&#xB9AC; &#xC2A4;&#xC704;&#xCE58;</td>
-      <td style="text-align:left">
-        <p>&#xC2AC;&#xB86F; &#xBC88;&#xD638;&#xC5D0; &#xB530;&#xB77C; &#xD1B5;&#xC2E0;&#xC744;
-          &#xC124;&#xC815;&#xD558;&#xC5EC; &#xC0AC;&#xC6A9;&#xD569;&#xB2C8;&#xB2E4;.</p>
-        <p>MiniH6COM PCI &#xC2AC;&#xB86F;&#xC758; &#xC704;&#xCE58;&#xC5D0; &#xB530;&#xB77C;
-          &#xB85C;&#xD130;&#xB9AC; &#xC2A4;&#xC704;&#xCE58;&#xB97C;</p>
-        <p>&#xC0C1;&#xB2E8;&#xC5D0;&#xC11C;&#xBD80;&#xD130; 1 ~ 2&#xBC88;&#xC73C;&#xB85C;
-          &#xC124;&#xC815;&#xD569;&#xB2C8;&#xB2E4;.</p>
-      </td>
+      <td style="text-align:center">Rotary switch</td>
+      <td style="text-align:left">This sets communication channels according to slot numbers. According
+        to the position of the MiniH6COM PCI slot, set the rotary switch at 1 to
+        2 from the top</td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../../../.gitbook/assets/2.png" alt="Adobe Systems" />
       </td>
-      <td style="text-align:center">LED &#xB7A8;</td>
+      <td style="text-align:center">LED lamp</td>
       <td style="text-align:left">
         <ul>
-          <li>SYS: &#xC2DC;&#xC2A4;&#xD15C; &#xC0C1;&#xD0DC;&#xB97C; &#xD45C;&#xC2DC;&#xD569;&#xB2C8;&#xB2E4;.
-            <br
-            />
+          <li>SYS: This displays the system state.
+            <br />
             <ul>
-              <li>&#xCD08;&#xB85D;&#xC0C9;: &#xC2DC;&#xC2A4;&#xD15C;&#xC774; &#xC815;&#xC0C1;&#xC801;&#xC73C;&#xB85C;
-                &#xB3D9;&#xC791; &#xC911;&#xC785;&#xB2C8;&#xB2E4;.
+              <li>Green: The system is in normal operation.
                 <br />
               </li>
-              <li>&#xB178;&#xB780;&#xC0C9;: &#xBD80;&#xD2B8; &#xB85C;&#xB354; &#xB300;&#xAE30;
-                &#xC911;&#xC785;&#xB2C8;&#xB2E4;.
-                <br />
-              </li>
+              <li>Yellow: The system is waiting for the boot loader.</li>
             </ul>
           </li>
-          <li>COM0, COM1: &#xD1B5;&#xC2E0; &#xC0C1;&#xD0DC;&#xB97C; &#xD45C;&#xC2DC;&#xD569;&#xB2C8;&#xB2E4;.
-            <br
-            />
+          <li>
+            <p>COM0, COM1: These display the communication states.
+              <br />
+            </p>
             <ul>
-              <li>&#xCD08;&#xB85D;&#xC0C9;: &#xC815;&#xC0C1;&#xC801;&#xC73C;&#xB85C; &#xD1B5;&#xC2E0;
-                &#xC911;&#xC785;&#xB2C8;&#xB2E4;.
+              <li>Green: The communication is in normal operation.
                 <br />
               </li>
-              <li>&#xBE68;&#xAC04;&#xC0C9;: &#xD1B5;&#xC2E0; &#xC5D0;&#xB7EC;&#xAC00; &#xBC1C;&#xC0DD;&#xD558;&#xC600;&#xC2B5;&#xB2C8;&#xB2E4;.
-                <br
-                />
+              <li>Red: A communication error has occurred.
+                <br />
               </li>
             </ul>
+            <p>
+              <br />
+            </p>
           </li>
         </ul>
       </td>
@@ -76,24 +68,24 @@ PCI 통신 카드의 각 부분의 이름과 기능, 모델은 다음과 같습�
       <td style="text-align:center">
         <img src="../../../.gitbook/assets/3.png" alt="Adobe Systems" />
       </td>
-      <td style="text-align:center">&#xD1B5;&#xC2E0; &#xC5F0;&#xACB0; &#xB2E8;&#xC790;</td>
-      <td style="text-align:left">&#xD1B5;&#xC2E0;&#xC6A9; &#xCF00;&#xC774;&#xBE14;&#xC744; &#xC5F0;&#xACB0;&#xD558;&#xC5EC;
-        &#xC678;&#xBD80; &#xC7A5;&#xCE58;&#xC640; &#xD1B5;&#xC2E0;&#xD569;&#xB2C8;&#xB2E4;.</td>
+      <td style="text-align:center">Communication connection terminal</td>
+      <td style="text-align:left">This enables communication with external devices through a communication
+        cable.</td>
     </tr>
     <tr>
       <td style="text-align:center">
         <img src="../../../.gitbook/assets/4.png" alt="Adobe Systems" />
       </td>
-      <td style="text-align:center">PCI &#xBC84;</td>
-      <td style="text-align:left">PC &#xC5F0;&#xACB0;&#xC6A9; &#xBC84;&#xC2A4;(Bus)&#xB85C; &#xC678;&#xBD80;
-        PC&#xC640; &#xD1B5;&#xC2E0;&#xD569;&#xB2C8;&#xB2E4;.</td>
+      <td style="text-align:center">PCI bus</td>
+      <td style="text-align:left">This, which is a bus for PC communication, enables communication with
+        external PCs.</td>
     </tr>
   </tbody>
 </table>
 
-![&#xADF8;&#xB9BC; 45 PCI &#xD1B5;&#xC2E0; &#xCE74;&#xB4DC; &#xBAA8;&#xB378;](../../../.gitbook/assets/image126.png)
+![Figure 46 PCI communication card models](../../../.gitbook/assets/image126.png)
 
-| **모델명** |                                **설명** |                      **접속 커넥터** |
+| **Model name** |                 **Description** |               **Connector** |
 | :---: | :--- | :--- |
 | CIFX 50-RE/ML-HRC | HRC Real-Time Ethernet Master PCI | RJ45 Socket |
 | CIFX 50-RE-HRC | HRC Real-Time Ethernet Slave PCI | RJ45 Socket |
@@ -110,12 +102,4 @@ PCI 통신 카드의 각 부분의 이름과 기능, 모델은 다음과 같습�
 | CIFX 50E-DP/ML-HRC | PROFIBUS Master PCIe | Dsub female connector, 9 pin |
 | CIFX 50E-DP-HRC | PROFIBUS Slave PCIe | Dsub female connector, 9 pin |
 | CIFX 50E-CCIES-HRC | CC-Link IE Fileld PCIe | RJ45 Socket |
-
-
-
-|  |
-| :--- |
-
-
-
 

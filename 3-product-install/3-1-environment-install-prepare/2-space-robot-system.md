@@ -1,20 +1,26 @@
-# 3.1.2 로봇 시스템 영역
+# 3.1.2 Spaces of the robot system
 
-로봇 시스템의 영역은 여러 단계가 있으며 협동로봇이 움직일 수 있는 최대 작업 영역은 모델별로 다릅니다. 다음 정보를 확인하고 운전 목적과 모델별 최대 작업 영역에 따라 알맞게 영역을 구성하십시오.
+Check the following information, and arrange the space adequately to meet the operating purpose and the maximum operating space of the model.
 
-로봇 시스템과 작업자가 접촉하여 수행하는 협동운전에서 작업자는 안전 영역 내에서 작업합니다. 반면 로봇과 작업자의 접촉이 허가되지 않는 협동운전의 경우, 작업자는 보호 영역 내에서만 작업할 수 있습니다. 일반적인 산업용 로봇을 운전하는 경우에는 작업자는 보호 영역 밖에서 작업해야 합니다.
+In collaborative operation in which the operator is allowed to contact the robot system, the operator should work within the operating space. On the contrary, in collaborative operation in which the operator is not allowed to contact the robot system, the operator should work only in the safeguarded space. In the general operation of industrial robots, the operator should work outside of the safeguarded space.
 
-![](../../.gitbook/assets/robot_system_area.png)
 
-* 운전 영역\(Operating space\): 작업 프로그램에 따라 로봇이 움직이는 동안 사용되는 제한 영역의 한 영역
 
-* 제한 영역\(Restricted space\): 제한 장치에 의해 제한되는 최대 영역의 한 영역
+![](../../.gitbook/assets/robot_system_area_2.png)
 
-* 보호 영역\(Safeguarded space\): 보호 장치가 작동되는 영역
+* Operating space: A part of the restricted space that is used while the robot moves according to the operating program
 
-* 최대 영역\(Maximum space\): 로봇이 움직이는 영역으로 다다를 수 있는 영역
+* Restricted space: A part of the maximum space that is restricted by restricting devices
 
-협동로봇이 움직일 수 있는 최대 작업 영역은 모델별로 다릅니다. 모델별 최대 작업 영역은 다음과 같습니다.
+* Safeguarded space: A space for which safeguarding devices run
+
+* Maximum space: A space in which the robot can move to the maximum extent
+
+The maximum working spaces of collaborative robots vary depending on models. The maximum working spaces of models are as follows:
+
+{% hint style="info" %}
+Not all postures are possible even within the working area, so it is recommended to check through HRSpace.
+{% endhint %}
 
 * YL005: 916 mm
 
@@ -27,4 +33,8 @@
 * YL015: 963 mm
 
 ![](../../.gitbook/assets/yl015_area.png)
+
+{% hint style="info" %}
+In the above cylindrical space passing through the S-axis, even if the tool flange moves slowly, other joints move quickly, possibly causing inefficient operation and damage to the robot. Therefore, it is not recommended to perform any operation in this space.
+{% endhint %}
 

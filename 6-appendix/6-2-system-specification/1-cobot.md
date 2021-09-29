@@ -1,8 +1,8 @@
-# 6.2.1 로봇 기구
+# 6.2.1 Collaborative robot
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 {% hint style="info" %}
-손목축\*의 최대 동작 범위는 적용 공정의 상황에 따라 ±360°로 변경할 수 있습니다. 이에 대한 자세한 내용은 고객지원팀에 문의하십시오.
+The maximum operating range of the wrist axis can be changed to 360°according to the situation of the application process. Please contact customer support for more information on this.
 {% endhint %}
 

@@ -1,8 +1,8 @@
-# 4.3.2 안전 제어 모듈
+# 4.3.2 Safety control module
 
-안전 제어 모듈\(SCM: Safety Control Module\)은 협동로봇의 안전을 감시하고 제어하는 모듈입니다. 기능에 대한 자세한 내용은 “**협동로봇 기능 설명서**”를 참조하십시오.
+The safety control module \(SCM\) monitors and controls the safety of the collaborative robot. For more details on its functions, see the “**Safety Function Manual for Collaborative Robots**.”
 
-![&#xADF8;&#xB9BC; 26 &#xC548;&#xC804; &#xC81C;&#xC5B4; &#xBAA8;&#xB4C8;\(SCM\)](../../../.gitbook/assets/image108.png)
+![Figure 27 Safety control module \(SCM\)](../../../.gitbook/assets/image%20%2821%29.png)
 
 
 

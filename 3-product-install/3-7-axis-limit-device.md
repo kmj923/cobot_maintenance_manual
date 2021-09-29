@@ -1,20 +1,18 @@
-# 3.7 축 제한 장치
+# 3.7 Axis limiting devices
 
-### 기계적 축 제한 장치
+### Mechanical axis limiting devices
 
-협동로봇은 기계적 축 제한 장치를 지원하지 않으므로 주의하여 사용하십시오.
+Note that the collaborative robot does not support mechanical axis restriction devices.
 
+### Safety-rated soft axis and space limiting
 
+The collaborative robot is capable of safety-rated soft axis and space limiting. For more details, see the “**Safety Function Manual for Collaborative Robots**.”
 
-### 안전 정격 연성 축 및 공간 제한 장치
+### Dynamic limiting functions
 
-협동로봇은 안전 정격 연성 축 및 공간을 제한할 수 있습니다. 자세한 내용은 “**협동로봇 안전 기능 설명서**”를 참조하십시오.
+Note that the collaborative robot does not support dynamic restriction functions.
 
-
-
-### 동적 제한 기능
-
-협동로봇은 동적 제한 기능을 지원하지 않으므로 주의하여 사용하십시오.
+### 
 
 
 

@@ -1,18 +1,107 @@
-# 2.3.2 제어기
+# 2.3.2 Controller
 
-![&#xADF8;&#xB9BC; 11 &#xC81C;&#xC5B4;&#xAE30; &#xC55E;&#xBA74;\(&#xC88C;\) / &#xB4B7;&#xBA74;\(&#xC6B0;\)](../../.gitbook/assets/controller_part_name.png)
+![Figure 11 Controller front side \(left\) / rear side \(right\)](../../.gitbook/assets/controller_part_name.png)
 
-| **번호** | **이름** |                                                            **설명**  |
-| :---: | :---: | :--- |
-|  ![](../../.gitbook/assets/1.png)  | 로봇 케이블 커넥터 | 통신선과 전원선이 내장되어 제어기를 기구와 연결하는 커넥터입니다. |
-|  ![](../../.gitbook/assets/2.png)  | 전원 커넥터 | 제어기에 전원을 공급하는 커넥터입니다. |
-|  ![](../../.gitbook/assets/3.png)  | 전원 차단기 | 전원 스위치를 이용해 제어기의 주전원을 켜거나 끕니다. |
-|  ![](../../.gitbook/assets/4.png)  | 환풍구 | 제어기의 냉각을 위한 공기 유입 통로입니다. |
-|  ![](../../.gitbook/assets/5.png)  | 손잡이 | 제어기의 전면과 후면에 장착되어 운반에 사용합니다. |
-|  ![](../../.gitbook/assets/6.png)  | 비상 정지 스위치 | 긴급 상황 발생 시 비상 정지 스위치를 눌러 로봇의 동작을 정지시킵니다. |
-|  ![](../../.gitbook/assets/7.png)  | 응용 장치 연결구 | 응용 장치를 내부의 모듈과 케이블로 연결할 경우 사용하는 통로입니다. |
-|  ![](../../.gitbook/assets/8.png)  | 티치 펜던트 연결구 | 직결형의 티치 펜던트를 연결하는 통로입니다. |
-|  ![](../../.gitbook/assets/9.png)  | I/O 연결 블록 | 주변 기기를 제어기에 연결합니다.  |
-|  ![](../../.gitbook/assets/10.png)  | 도어 | 도어를 열어 제어기의 측면을 개방합니다. |
-|  ![](../../.gitbook/assets/11.png)  | 냉각 | 제어기 내부의 가열된 공기를 외부로 강제 유출시키는 장치입니다. |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">No</th>
+      <th style="text-align:center"><b>Name</b>
+      </th>
+      <th style="text-align:left"><b>                                                       Description</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/1.png" alt/>
+      </td>
+      <td style="text-align:center">Robot cable connector</td>
+      <td style="text-align:left">This contains the power cable and the communication cable and connects
+        the controller with the device.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/2.png" alt/>
+      </td>
+      <td style="text-align:center">Power connector</td>
+      <td style="text-align:left">This connector supplies power to the controller</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/3.png" alt/>
+      </td>
+      <td style="text-align:center">Power breaker</td>
+      <td style="text-align:left">This turns the main power of the controller on or off using the power
+        switch.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/4.png" alt/>
+      </td>
+      <td style="text-align:center">Ventilation hole</td>
+      <td style="text-align:left">This is the airflow path for cooling the controller.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/5.png" alt/>
+      </td>
+      <td style="text-align:center">Handles</td>
+      <td style="text-align:left">These are mounted on the front and the rear of the controller and are
+        used for moving the controller.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/6.png" alt/>
+      </td>
+      <td style="text-align:center">Emergency stop switch</td>
+      <td style="text-align:left">This button is pressed to stop the motion of the robot in case of an emergency.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/7.png" alt/>
+      </td>
+      <td style="text-align:center">Application device connection hole</td>
+      <td style="text-align:left">This is the path used for passing cables connecting application devices
+        with the internal modules.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/8.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>Teach pendant
+          <br />
+        </p>
+        <p>Connection hole
+          <br />
+        </p>
+      </td>
+      <td style="text-align:left">This is the path used for connecting a teach pendant of the direct-connection
+        type.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/9.png" alt/>
+      </td>
+      <td style="text-align:center">I/O connection block</td>
+      <td style="text-align:left">This connects peripheral devices to the controller.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/10.png" alt/>
+      </td>
+      <td style="text-align:center">Door</td>
+      <td style="text-align:left">This door is used for opening a side of the controller.</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/11.png" alt/>
+      </td>
+      <td style="text-align:center">Cooling fan</td>
+      <td style="text-align:left">This forcibly vents out the heated air inside the controller.</td>
+    </tr>
+  </tbody>
+</table>
 
