@@ -6,7 +6,7 @@ PCI 통신 카드의 각 부분의 이름과 기능, 모델은 다음과 같습�
 
 
 
-![&#xADF8;&#xB9BC; 45 PCI &#xD1B5;&#xC2E0; &#xCE74;&#xB4DC; &#xC678;&#xAD00;\(&#xC88C;\) / &#xC804;&#xBA74;\(&#xC6B0;\)](../../../.gitbook/assets/image125.png)
+![&#xADF8;&#xB9BC; 44 PCI &#xD1B5;&#xC2E0; &#xCE74;&#xB4DC; &#xC678;&#xAD00;\(&#xC88C;\) / &#xC804;&#xBA74;\(&#xC6B0;\)](../../../.gitbook/assets/image125.png)
 
 <table>
   <thead>
@@ -91,7 +91,7 @@ PCI 통신 카드의 각 부분의 이름과 기능, 모델은 다음과 같습�
   </tbody>
 </table>
 
-![&#xADF8;&#xB9BC; 46 PCI &#xD1B5;&#xC2E0; &#xCE74;&#xB4DC; &#xBAA8;&#xB378;](../../../.gitbook/assets/image126.png)
+![&#xADF8;&#xB9BC; 45 PCI &#xD1B5;&#xC2E0; &#xCE74;&#xB4DC; &#xBAA8;&#xB378;](../../../.gitbook/assets/image126.png)
 
 | **모델명** |                                **설명** |                      **접속 커넥터** |
 | :---: | :--- | :--- |
@@ -110,4 +110,12 @@ PCI 통신 카드의 각 부분의 이름과 기능, 모델은 다음과 같습�
 | CIFX 50E-DP/ML-HRC | PROFIBUS Master PCIe | Dsub female connector, 9 pin |
 | CIFX 50E-DP-HRC | PROFIBUS Slave PCIe | Dsub female connector, 9 pin |
 | CIFX 50E-CCIES-HRC | CC-Link IE Fileld PCIe | RJ45 Socket |
+
+
+
+|  |
+| :--- |
+
+
+
 

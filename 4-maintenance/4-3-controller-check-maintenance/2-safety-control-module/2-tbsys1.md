@@ -2,7 +2,7 @@
 
 로봇 시스템 전용의 입출력 신호는 안전 제어 모듈의 터미널 블록 TBSYS1을 통하여 연결됩니다.
 
-![&#xADF8;&#xB9BC; 29 &#xB85C;&#xBD07; &#xC2DC;&#xC2A4;&#xD15C;&#xC6A9; &#xC785;&#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBSYS1\)](../../../.gitbook/assets/image110.png)
+![&#xADF8;&#xB9BC; 28 &#xB85C;&#xBD07; &#xC2DC;&#xC2A4;&#xD15C;&#xC6A9; &#xC785;&#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBSYS1\)](../../../.gitbook/assets/image110.png)
 
 \* 3 ~ 8, 11 ~ 16번 핀은 제어 시스템 내부에서 전용 신호로 사용됩니다.
 

@@ -8,11 +8,11 @@
 
 
 
-#### ![](../../.gitbook/assets/1.png) 전원 및 접지 연결 주의 사항
+#### ![](../../.gitbook/assets/1.png) 전원 및 접지 연결 주의사
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC88C;\) / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC6B0;\)](../../.gitbook/assets/image%20%2827%29.png)
 
-#### ![](../../.gitbook/assets/2.png) 고전압 표시
+#### ![](../../.gitbook/assets/2.png) 고전압 표
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14;](../../.gitbook/assets/image%20%2829%29.png)
 
@@ -20,35 +20,35 @@
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14;](../../.gitbook/assets/image%20%2825%29.png)
 
-#### ![](../../.gitbook/assets/4.png)공기 순환구 주의 사항
+#### ![](../../.gitbook/assets/4.png)공기 순환구 주의 사
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC88C;\) / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC6B0;\)](../../.gitbook/assets/image%20%2811%29.png)
 
-#### ![](../../.gitbook/assets/5.png)NRTL 인증 마크
+#### ![](../../.gitbook/assets/5.png)NRTL 인증 마
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14;](../../.gitbook/assets/image26.png)
 
-#### ![](../../.gitbook/assets/6.png)명판
+#### ![](../../.gitbook/assets/6.png)명
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC88C;\) / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC6B0;\)](../../.gitbook/assets/image%20%2830%29.png)
 
-#### ![](../../.gitbook/assets/7.png)고전압 경고
+#### ![](../../.gitbook/assets/7.png)고전압 경
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC88C;\) / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC6B0;\)](../../.gitbook/assets/image%20%2810%29.png)
 
-#### ![](../../.gitbook/assets/8.png)설치 주의 사항
+#### ![](../../.gitbook/assets/8.png)설치 주의 사
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC88C;\) / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC6B0;\)](../../.gitbook/assets/image%20%2832%29.png)
 
-#### ![](../../.gitbook/assets/9.png)기능 안전 인증 마크
+#### ![](../../.gitbook/assets/9.png)기능 안전 인증 마
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14;](../../.gitbook/assets/image37.png)
 
-#### ![](../../.gitbook/assets/10.png)접지선 연결 주의 사항
+#### ![](../../.gitbook/assets/10.png)접지선 연결 주의 사
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC88C;\) / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14; \(&#xC6B0;\)](../../.gitbook/assets/image%20%2819%29.png)
 
-#### ![](../../.gitbook/assets/11.png)접지 표시
+#### ![](../../.gitbook/assets/11.png)접지 표
 
 ![&#xAD6D;&#xBB38; &#xB808;&#xC774;&#xBE14; / &#xC601;&#xBB38; &#xB808;&#xC774;&#xBE14;](../../.gitbook/assets/image42.jpeg)
 

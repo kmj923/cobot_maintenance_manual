@@ -4,7 +4,7 @@
 
 협동로봇을 직접 이동하려면, 이동에 적절한 자세로 협동로봇을 설정하고 2인 이상의 작업자가 동시에 들어올려 원하는 위치로 옮기십시오.
 
-![&#xADF8;&#xB9BC; 51 &#xC9C1;&#xC811; &#xC6B4;&#xBC18;](../../.gitbook/assets/image131.png)
+![&#xADF8;&#xB9BC; 50 &#xC9C1;&#xC811; &#xC6B4;&#xBC18;](../../.gitbook/assets/image131.png)
 
 
 
@@ -20,13 +20,13 @@
 
 리프팅 장비를 이용해 협동로봇을 이동하려면, 리프팅에 적절한 자세로 협동로봇을 설정하고 슬링 벨트로 크레인에 연결한 후 들어올려 원하는 위치로 옮기십시오.
 
-![&#xADF8;&#xB9BC; 52 &#xD06C;&#xB808;&#xC778; &#xC6B4;&#xBC18;: YL012](../../.gitbook/assets/image132.png)
+![&#xADF8;&#xB9BC; 51 &#xD06C;&#xB808;&#xC778; &#xC6B4;&#xBC18;: YL012](../../.gitbook/assets/image132.png)
 
-![&#xADF8;&#xB9BC; 53 &#xD06C;&#xB808;&#xC778; &#xC6B4;&#xBC18;: YL005\(&#xC88C;\) / YL015\(&#xC6B0;\)](../../.gitbook/assets/image133.png)
+![&#xADF8;&#xB9BC; 52 &#xD06C;&#xB808;&#xC778; &#xC6B4;&#xBC18;: YL005\(&#xC88C;\) / YL015\(&#xC6B0;\)](../../.gitbook/assets/image133.png)
 
 * 리프팅에 적절한 자세는 제품을 직접 운반하는 경우와 동일합니다.
 
-  “[**5.1.1 추천 자세**](1-recommend-posture.md)”를 참조하여 협동로봇을 공장 출하 시의 자세로 설정할 것을 권장합니다.
+  “**5.1.1 추천 자세**”를 참조하여 협동로봇을 공장 출하 시의 자세로 설정할 것을 권장합니다.
 
 
 

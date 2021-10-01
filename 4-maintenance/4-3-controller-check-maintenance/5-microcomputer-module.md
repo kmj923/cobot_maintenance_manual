@@ -10,7 +10,7 @@
 | :--- |
 
 
-![&#xADF8;&#xB9BC; 40 &#xC18C;&#xD615; &#xCEF4;&#xD4E8;&#xD130; &#xBAA8;&#xB4C8; &#xC678;&#xBD80; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;](../../.gitbook/assets/image121.png)
+![&#xADF8;&#xB9BC; 39 &#xC18C;&#xD615; &#xCEF4;&#xD4E8;&#xD130; &#xBAA8;&#xB4C8; &#xC678;&#xBD80; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;](../../.gitbook/assets/image121.png)
 
 | **포트** | **용도** | **사양** | **개수** |
 | :---: | :---: | :---: | :---: |
@@ -22,7 +22,7 @@
 | DC IN | 전원 입력 | DC12 ~ 24V, 10A | 1 |
 | - | 확장 슬롯 | PCIe x1, PCI | 2 |
 
-![&#xADF8;&#xB9BC; 41 COM &#xD3EC;&#xD2B8;\(Male\) &#xD540; &#xB9F5;](../../.gitbook/assets/image122.png)
+![&#xADF8;&#xB9BC; 40 COM &#xD3EC;&#xD2B8;\(Male\) &#xD540; &#xB9F5;](../../.gitbook/assets/image122.png)
 
 | **번호** | **이름** | **번호** | **이름** |
 | :---: | :---: | :---: | :---: |
@@ -32,7 +32,7 @@
 | ![Adobe Systems](../../.gitbook/assets/4.png) | COMn\_422\_RX- | ![Adobe Systems](../../.gitbook/assets/9.png) | COMn\_RI\_V\# |
 | ![Adobe Systems](../../.gitbook/assets/5.png) | GND |  |  |
 
-![&#xADF8;&#xB9BC; 42 COM &#xD3EC;&#xD2B8;\(Female\) &#xD540; &#xB9F5;](../../.gitbook/assets/image123.png)
+![&#xADF8;&#xB9BC; 41 COM &#xD3EC;&#xD2B8;\(Female\) &#xD540; &#xB9F5;](../../.gitbook/assets/image123.png)
 
 | **번호** | **이름** | **번호** | **이름** |
 | :---: | :---: | :---: | :---: |
@@ -48,7 +48,7 @@
 | :---: |
 
 
-![&#xADF8;&#xB9BC; 43 DCIN \(&#xC804;&#xC6D0; &#xCEE4;&#xB125;&#xD130;\) &#xD540; &#xB9F5;](../../.gitbook/assets/image124.png)
+![&#xADF8;&#xB9BC; 42 DCIN \(&#xC804;&#xC6D0; &#xCEE4;&#xB125;&#xD130;\) &#xD540; &#xB9F5;](../../.gitbook/assets/image124.png)
 
 | **번호** | **이름** |
 | :---: | :---: |

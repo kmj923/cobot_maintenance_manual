@@ -2,7 +2,7 @@
 
 통신에 사용하는 커넥터의 핀 구성은 PCB 통신 카드에 따라 다릅니다.
 
-![&#xADF8;&#xB9BC; 47 RJ45 &#xC18C;&#xCF13;&#xC758; &#xC774;&#xB354;&#xB137; &#xD540; &#xD560;&#xB2F9;](../../../.gitbook/assets/image127.png)
+![&#xADF8;&#xB9BC; 46 RJ45 &#xC18C;&#xCF13;&#xC758; &#xC774;&#xB354;&#xB137; &#xD540; &#xD560;&#xB2F9;](../../../.gitbook/assets/image127.png)
 
 <table>
   <thead>
@@ -71,7 +71,7 @@
   </tbody>
 </table>
 
-![&#xADF8;&#xB9BC; 48 CC-&#xB9C1;&#xD06C; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(CombiCon male &#xCEE4;&#xB125;&#xD130;, 5&#xD540;\)](../../../.gitbook/assets/image128.png)
+![&#xADF8;&#xB9BC; 47 CC-&#xB9C1;&#xD06C; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(CombiCon male &#xCEE4;&#xB125;&#xD130;, 5&#xD540;\)](../../../.gitbook/assets/image128.png)
 
 | **번호** | **신호** |                                                                   **설명** |
 | :---: | :---: | :--- |
@@ -81,7 +81,7 @@
 | 4 | SLD | Shield |
 | 5 | FG | Field Ground |
 
-![&#xADF8;&#xB9BC; 49 DevcieNet &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(CombiCon male &#xCEE4;&#xB125;&#xD130;, 5 &#xD540;\)](../../../.gitbook/assets/image129.png)
+![&#xADF8;&#xB9BC; 48  DevcieNet &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(CombiCon male &#xCEE4;&#xB125;&#xD130;, 5 &#xD540;\)](../../../.gitbook/assets/image129.png)
 
 | **번호** | **신호** |                                                                  **설명** |
 | :---: | :---: | :--- |
@@ -91,7 +91,7 @@
 | 4 | CAN\_H | CAN High-Signal |
 | 5 | V+ | +24 V DeviceNet supply voltage |
 
-![&#xADF8;&#xB9BC; 50 PROFIBUS &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(DSub female &#xCEE4;&#xB125;&#xD130;, 9 &#xD540;\)](../../../.gitbook/assets/image130.png)
+![&#xADF8;&#xB9BC; 49 PROFIBUS &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;\(DSub female &#xCEE4;&#xB125;&#xD130;, 9 &#xD540;\)](../../../.gitbook/assets/image130.png)
 
 | **번호** | **신호** |                                                                **설명** |
 | :---: | :---: | :--- |

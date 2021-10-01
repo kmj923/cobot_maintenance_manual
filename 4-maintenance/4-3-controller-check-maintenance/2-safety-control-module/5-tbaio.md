@@ -2,11 +2,11 @@
 
 범용 아날로그 입력은 TBAIO를 통하여 신호를 연결합니다\(최대 2 개\). 다음의 예에서는 외부 장치1은 GAIN0, 외부 장치2는 GAIN1에 입력되어 있습니다.
 
-![&#xADF8;&#xB9BC; 34 &#xBC94;&#xC6A9; &#xC544;&#xB0A0;&#xB85C;&#xADF8; &#xC785;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBAIO\)](../../../.gitbook/assets/image115.png)
+![&#xADF8;&#xB9BC; 33 &#xBC94;&#xC6A9; &#xC544;&#xB0A0;&#xB85C;&#xADF8; &#xC785;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBAIO\)](../../../.gitbook/assets/image115.png)
 
 범용 아날로그 출력은 TBAIO를 통하여 신호를 연결합니다\(최대 2 개\). 다음의 예에서는 외부 장치1은 GAOUT0, 외부 장치2는 GAOUT1에 출력으로 부하가 동작됩니다.
 
-![&#xADF8;&#xB9BC; 35 &#xBC94;&#xC6A9; &#xC544;&#xB0A0;&#xB85C;&#xADF8; &#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBAIO\)](../../../.gitbook/assets/image116.png)
+![&#xADF8;&#xB9BC; 34 &#xBC94;&#xC6A9; &#xC544;&#xB0A0;&#xB85C;&#xADF8; &#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBAIO\)](../../../.gitbook/assets/image116.png)
 
 | **번호** | **이름** |                                             **용도** |
 | :---: | :---: | :--- |

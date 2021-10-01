@@ -2,7 +2,7 @@
 
 안전 제어 모듈에서 사용되는 커넥터의 배치, 용도 및 접속 장치는 다음과 같습니다.
 
-![&#xADF8;&#xB9BC; 28 &#xC548;&#xC804; &#xC81C;&#xC5B4; &#xBCF4;&#xB4DC;\(BD6F1\)](../../../.gitbook/assets/image109.png)
+![&#xADF8;&#xB9BC; 27 &#xC548;&#xC804; &#xC81C;&#xC5B4; &#xBCF4;&#xB4DC;\(BD6F1\)](../../../.gitbook/assets/image109.png)
 
 <table>
   <thead>

@@ -2,7 +2,7 @@
 
 범용 디지털 입력은 터미널 블록 TBDIO를 통하여 신호를 연결합니다\(최대 8 개\). 다음의 예에서는 외부 장치1은 GDIN1, 외부 장치2는 GDIN6에 입력되어 있습니다.
 
-![&#xADF8;&#xB9BC; 32 &#xBC94;&#xC6A9; &#xB514;&#xC9C0;&#xD138; &#xC785;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBDIO\)](../../../.gitbook/assets/image113.png)
+![&#xADF8;&#xB9BC; 31 &#xBC94;&#xC6A9; &#xB514;&#xC9C0;&#xD138; &#xC785;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBDIO\)](../../../.gitbook/assets/image113.png)
 
 범용 디지털 출력은 터미널블록 TBDIO를 통하여 신호를 연결합니다\(최대 8 개\). 다음의 예에서는 외부 장치1은 GDOUT2, 외부 장치2는 GDOUT7의 출력으로 부하가 동작됩니다.
 
@@ -10,7 +10,7 @@
 | :---: |
 
 
-![&#xADF8;&#xB9BC; 33 &#xBC94;&#xC6A9; &#xB514;&#xC9C0;&#xD138; &#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBDIO\)](../../../.gitbook/assets/image114.png)
+![&#xADF8;&#xB9BC; 32 &#xBC94;&#xC6A9; &#xB514;&#xC9C0;&#xD138; &#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBDIO\)](../../../.gitbook/assets/image114.png)
 
 | **번호** | **이름** |                                      **용도** |
 | :---: | :---: | :--- |

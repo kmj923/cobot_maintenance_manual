@@ -2,7 +2,7 @@
 
 안전 제어 모듈의 안전 입력 신호는 터미널 블록 TBSDI를 통하여 비상 정지 스위치 및 안전 가드 입력을 받습니다.
 
-![&#xADF8;&#xB9BC; 30 &#xC548;&#xC804; &#xC785;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBSDI\)](../../../.gitbook/assets/image111.png)
+![&#xADF8;&#xB9BC; 29 &#xC548;&#xC804; &#xC785;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBSDI\)](../../../.gitbook/assets/image111.png)
 
 | **번호** | **이름** | **용도** |
 | :---: | :---: | :---: |
@@ -25,7 +25,7 @@
 
 그리고 안전 제어 모듈의 안전 출력 신호는 터미널 블록 TBSDO를 통하여 응용에 필요한 안전 장치로 출력합니다.
 
-![&#xADF8;&#xB9BC; 31 &#xC548;&#xC804; &#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBSDO\)](../../../.gitbook/assets/image112.png)
+![&#xADF8;&#xB9BC; 30 &#xC548;&#xC804; &#xCD9C;&#xB825; &#xC2E0;&#xD638; &#xC5F0;&#xACB0;\(TBSDO\)](../../../.gitbook/assets/image112.png)
 
 | **번호** | **이름** | **용도** |
 | :---: | :---: | :---: |

@@ -9,7 +9,7 @@
     <tr>
       <th style="text-align:center"><b>&#xBC88;&#xD638;</b>
       </th>
-      <th style="text-align:left"><b>                                                                  &#xC124;&#xBA85;</b>
+      <th style="text-align:left"><b>                                                                   &#xC124;&#xBA85;</b>
       </th>
     </tr>
   </thead>

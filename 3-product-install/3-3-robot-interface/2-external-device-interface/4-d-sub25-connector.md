@@ -2,7 +2,7 @@
 
 외부의 안전 신호용 디지털 입출력 신호는 D-SUB 24커넥터\(SDIO\)를 통하여 8개씩 연결할 수 있습니다. 비상 정지 장치, 보호\(방호\) 장치 등 협동로봇의 안전 시스템을 구성할 수 있습니다.
 
-안전 입출력 신호는 용도에 따라 “[**협동로봇 안 기능 설명서**](https://hyundai-robotics.gitbook.io/cobot-safety-function/)”를 참조하여 설정하십시오. 예를 들어, 티치 펜던트를 사용하지 않거나 인에이블링 스위치를 추가할 경우에는 범용 안전 신호 입력에 배선하고 입력 신호를 할당합니다. 할당할 수 있는 입출력 신호의 종류는 다음과 같습니다.
+안전 입출력 신호는 용도에 따라 “[**협동로봇 안전 기능 설명서**](https://hyundai-robotics.gitbook.io/cobot-safety-function/)”를 참조하여 설정하십시오. 예를 들어, 티치 펜던트를 사용하지 않거나 인에이블링 스위치를 추가할 경우에는 범용 안전 신호 입력에 배선하고 입력 신호를 할당합니다. 할당할 수 있는 입출력 신호의 종류는 다음과 같습니다.
 
 * 입력 신호: STOP0, STOP1, STOP2, SOS, Reduced mode, Enable SW, Motor on, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space\#1-\#12
 
