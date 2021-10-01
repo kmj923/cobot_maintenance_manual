@@ -6,7 +6,7 @@
 | :--- |
 
 
-![&#xADF8;&#xB9BC; 38 &#xD68C;&#xC0DD; &#xBC29;&#xC804; &#xBAA8;&#xB4C8;](../../../.gitbook/assets/image120.png)
+![&#xADF8;&#xB9BC; 39 &#xD68C;&#xC0DD; &#xBC29;&#xC804; &#xBAA8;&#xB4C8;](../../../.gitbook/assets/image120.png)
 
 | **부품** |                                             **용도** | **사양** |
 | :---: | :--- | :---: |

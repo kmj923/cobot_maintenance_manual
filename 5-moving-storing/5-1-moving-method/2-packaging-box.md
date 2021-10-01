@@ -2,7 +2,7 @@
 
 운송을 위한 포장 박스의 사양 정보는 다음와 같습니다.
 
-![&#xADF8;&#xB9BC; 51 &#xC81C;&#xD488; &#xC6B4;&#xC1A1;&#xC6A9; &#xD3EC;&#xC7A5; &#xC0C1;&#xC790;](../../.gitbook/assets/image134.png)
+![&#xADF8;&#xB9BC; 54 &#xC81C;&#xD488; &#xC6B4;&#xC1A1;&#xC6A9; &#xD3EC;&#xC7A5; &#xC0C1;&#xC790;](../../.gitbook/assets/image134.png)
 
 | **모델** | **가로\(L\)** | **세로\(W\)** | **높이\(H\)** |
 | :---: | :---: | :---: | :---: |

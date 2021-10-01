@@ -2,7 +2,7 @@
 
 제어기의 구조와 각 부분의 이름을 알아 두면 설치 및 유지 보수 방법을 확인할 때 유용합니다.
 
-![&#xADF8;&#xB9BC; 25 &#xC81C;&#xC5B4;&#xAE30; &#xB0B4;&#xBD80; &#xAD6C;&#xC870;](../../.gitbook/assets/image107.png)
+![&#xADF8;&#xB9BC; 26 &#xC81C;&#xC5B4;&#xAE30; &#xB0B4;&#xBD80; &#xAD6C;&#xC870;](../../.gitbook/assets/image107.png)
 
 <table>
   <thead>
