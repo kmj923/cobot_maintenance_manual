@@ -25,6 +25,6 @@ Installing the product properly in consideration of installation location, orien
 
 * Before installing the product, make sure to carry out sufficient risk assessment and set the safety functions based on the result of the assessment.
 
-* For more details of the safety functions, see the “**Safety Function Manual for Collaborative Robots**.”
+* For more details of the safety functions, see the “[**Safety Function Manual for Collaborative Robots**](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/english/).”
 {% endhint %}
 

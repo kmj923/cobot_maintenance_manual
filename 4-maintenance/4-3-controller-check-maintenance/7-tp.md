@@ -18,5 +18,5 @@ The teach pendant is connected with the microcomputer module \(miniH6COM, EBC-GF
 
 * Robot operation: motor on, start, stop, and mode setting
 
-The teach pendant has a three-step enabling switch, an emergency stop switch, etc. for user safety. At its lower part, it has a USB connection port \(Type A\) for storing or downloading files to USB memory sticks, etc. For more details on how to use the teach pendant, see the “[**Operation Manual for Hi6 Controllers**](https://hyundai-robotics.gitbook.io/hi6-operation-manual/v/english/)” and the “**Safety Function Manual for Collaborative Robots**.”
+The teach pendant has a three-step enabling switch, an emergency stop switch, etc. for user safety. At its lower part, it has a USB connection port \(Type A\) for storing or downloading files to USB memory sticks, etc. For more details on how to use the teach pendant, see the “[**Operation Manual for Hi6 Controllers**](https://hyundai-robotics.gitbook.io/hi6-operation-manual/v/english/)” and the “[**Safety Function Manual for Collaborative Robots**](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/english/).”
 
