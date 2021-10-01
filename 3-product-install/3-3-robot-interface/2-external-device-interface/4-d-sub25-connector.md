@@ -2,7 +2,7 @@
 
 You can connect digital I/O signals for external safety signals, eight at a time, to the D-sub 24-pin connector \(SDIO\). For more details on signal connection, see “**General purpose safety I/O signals**.”
 
-Set the safety I/O signals according to usages, referring to “[**Safety Function Manual for Collaborative Robots**](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/english/).” For example, if you will not use the teach pendant and will use an enabling switch, connect it to the common safety signal input and assign input signals. The types of I/O signals that can be assigned are as follows:
+Set the safety I/O signals according to usages, referring to “**Safety Function Manual for Collaborative Robots**.” For example, if you will not use the teach pendant and will use an enabling switch, connect it to the common safety signal input and assign input signals. The types of I/O signals that can be assigned are as follows:
 
 * Input signals: STOP0, STOP1, STOP2, SOS, Reduced mode, Enable SW, Motor on, Mode switch-manual, Mode switch-auto, Mode switch-remote, Cartesian space \#1 - \#12
 

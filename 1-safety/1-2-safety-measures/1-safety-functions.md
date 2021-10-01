@@ -1,6 +1,6 @@
 # 1.2.1 Safety functions
 
-The collaborative robot is intended to carry out collaborative tasks based on the following safety functions. For the details of the safety functions, see the “[**Safety Function Manual for Collaborative Robots**](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/english/).”
+The collaborative robot is intended to carry out collaborative tasks based on the following safety functions. For the details of the safety functions, see the “**Safety Function Manual for Collaborative Robots**.”
 
 * STO: Safe Torque Off
 

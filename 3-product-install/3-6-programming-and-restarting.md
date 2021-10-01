@@ -6,7 +6,7 @@ The robot will identify the existence of safety issues through self-diagnosis an
 
 * For more details on how to set and operate the robot, see “[**Operation Manual for Hi6 Controllers**.](https://hyundai-robotics.gitbook.io/hi6-operation-manual)” 
 
-* For the details on the safety setting of collaborative operation, see the “[**Safety Function Manual for Collaborative Robots**](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/english/).”
+* For the details on the safety setting of collaborative operation, see the “**Safety Function Manual for Collaborative Robots**.”
 
 
 

@@ -6,7 +6,7 @@ Note that the collaborative robot does not support mechanical axis restriction d
 
 ### Safety-rated soft axis and space limiting
 
-The collaborative robot is capable of safety-rated soft axis and space limiting. For more details, see the “[**Safety Function Manual for Collaborative Robots**](https://hyundai-robotics.gitbook.io/cobot-safety-function/v/english/).”
+The collaborative robot is capable of safety-rated soft axis and space limiting. For more details, see the “**Safety Function Manual for Collaborative Robots**.”
 
 ### Dynamic limiting functions
 
