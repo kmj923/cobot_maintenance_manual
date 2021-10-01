@@ -2,14 +2,14 @@
 
 제어기 정면의 외부 장치 인터페이스를 이용하여 다양한 외부 장치를 연결할 수 있습니다.
 
-![&#xADF8;&#xB9BC; 18 &#xC678;&#xBD80; &#xC7A5;&#xCE58; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;](../../../.gitbook/assets/external_device_interface.png)
+![&#xADF8;&#xB9BC; 19 &#xC678;&#xBD80; &#xC7A5;&#xCE58; &#xC778;&#xD130;&#xD398;&#xC774;&#xC2A4;](../../../.gitbook/assets/external_device_interface.png)
 
 <table>
   <thead>
     <tr>
       <th style="text-align:center"><b>&#xBC88;&#xD638;</b>
       </th>
-      <th style="text-align:left"><b>&#xC124;&#xBA85;</b>
+      <th style="text-align:left"><b>                                                                  &#xC124;&#xBA85;</b>
       </th>
     </tr>
   </thead>
@@ -18,7 +18,7 @@
       <td style="text-align:center">
         <img src="../../../.gitbook/assets/1.png" alt/>
       </td>
-      <td style="text-align:left">LAN &#xC5F0;&#xACB0; &#xD3EC;</td>
+      <td style="text-align:left">LAN &#xC5F0;&#xACB0; &#xD3EC;&#xD2B8;</td>
     </tr>
     <tr>
       <td style="text-align:center">

@@ -60,7 +60,7 @@
       <td style="text-align:center">&#xD234; I/O &#xCEE4;&#xB125;&#xD130;</td>
       <td style="text-align:left">&#xD234;&#xC758; &#xB3D9;&#xC791;&#xC744; &#xC81C;&#xC5B4;&#xD569;&#xB2C8;&#xB2E4;.
         &#xD234; I/O&#xC5D0; &#xB300;&#xD55C; &#xC790;&#xC138;&#xD55C; &#xC815;&#xBCF4;&#xB294;
-        &#x201C;<b>3.3.1 &#xD234; &#xD50C;&#xB79C;&#xC9C0; &#xC5F0;&#xACB0;&#xBD80;</b>&#x201D;&#xB97C;
+        &#x201C;<a href="../../3-product-install/3-3-robot-interface/1-tool-flange-connection-point/"><b>3.3.1 &#xD234; &#xD50C;&#xB79C;&#xC9C0; &#xC5F0;&#xACB0;&#xBD80;</b></a>&#x201D;&#xB97C;
         &#xCC38;&#xC870;&#xD558;&#xC2ED;&#xC2DC;&#xC624;.</td>
     </tr>
     <tr>
@@ -77,8 +77,10 @@
       <td style="text-align:center">&#xC774;&#xB354;&#xCEA3; &#xCEE4;&#xB125;&#xD130;</td>
       <td style="text-align:left">&#xC774;&#xB354;&#xCEA3;(EtherCAT) &#xAE30;&#xBC18;&#xC758; &#xB2E8;&#xC790;&#xB85C;
         &#xD234;&#xACFC; &#xD1B5;&#xC2E0;&#xD569;&#xB2C8;&#xB2E4;. &#xC774;&#xB354;&#xCEA3;&#xC5D0;
-        &#xB300;&#xD55C; &#xC790;&#xC138;&#xD55C; &#xC815;&#xBCF4;&#xB294; &#x201C;<b>3.3.1 &#xD234; &#xD50C;&#xB79C;&#xC9C0; &#xC5F0;&#xACB0;&#xBD80;</b>&#x201D;&#xB97C;
-        &#xCC38;&#xC870;&#xD558;&#xC2ED;&#xC2DC;&#xC624;.</td>
+        &#xB300;&#xD55C; &#xC790;&#xC138;&#xD55C; &#xC815;&#xBCF4;&#xB294; &#x201C;
+        <a
+        href="../../3-product-install/3-3-robot-interface/1-tool-flange-connection-point/"><b>3.3.1 &#xD234; &#xD50C;&#xB79C;&#xC9C0; &#xC5F0;&#xACB0;&#xBD80;</b>
+          </a>&#x201D;&#xB97C; &#xCC38;&#xC870;&#xD558;&#xC2ED;&#xC2DC;&#xC624;.</td>
     </tr>
     <tr>
       <td style="text-align:center">
