@@ -6,7 +6,7 @@ The I/O signals dedicated to the robot system are connected through TBSYS1, the 
 
 \* The pins 3 through 8 and 11 through 16 are used as dedicated signals inside the control system.
 
-| **No.** | **Name** | **                                                  Usage**                                          |
+| **No.** | **Name** | **　　　　　　　Usage**                                                                                     |
 | :-----: | :------: | ---------------------------------------------------------------------------------------------------- |
 |    1    |  SF_POW1 | Protective stop input common (Channel 1)                                                             |
 |    2    |  SF_POW2 | Protective stop input common (Channel 2)                                                             |
@@ -24,13 +24,5 @@ The I/O signals dedicated to the robot system are connected through TBSYS1, the 
 |    14   |  RSV_IN2 | Reserved signal input                                                                                |
 |    15   |   /PRON  | Precharge relay actuation output                                                                     |
 |    16   | RSV_OUT2 | Reserved signal output                                                                               |
-
-
-
-
-
-
-
-
 
 

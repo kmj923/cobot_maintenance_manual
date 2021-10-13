@@ -6,12 +6,12 @@ You can connect D-sub 24-pin connectors (SDIOs) to two ports for external commun
 
 \* Internal connections of the controller (miniH6COM COM1, COM2) / \* n=1, 2 (COM port number)
 
-|             **Pin number**             |              **1**             |              **2**             |            **3**           |            **4**           | **5** |
-| :------------------------------------: | :----------------------------: | :----------------------------: | :------------------------: | :------------------------: | ----- |
-| Internal connections of the controller |                1               |                2               |              3             |              4             | 5     |
-|                  Name                  | <p>COMn_422_485</p><p>_TX-</p> | <p>COMn_422_485</p><p>_TX+</p> | <p>COMn_422</p><p>_RX+</p> | <p>COMn_422</p><p>_RX-</p> | GND   |
+|               **Pin number**               |                1               |                2               |              3             |              4             |  5  |
+| :----------------------------------------: | :----------------------------: | :----------------------------: | :------------------------: | :------------------------: | :-: |
+| **Internal connections of the controller** |                1               |                2               |              3             |              4             |  5  |
+|                  **Name**                  | <p>COMn_422_485</p><p>_TX-</p> | <p>COMn_422_485</p><p>_TX+</p> | <p>COMn_422</p><p>_RX+</p> | <p>COMn_422</p><p>_RX-</p> | GND |
 
-|             **Pin number**             |   **6**   |   **7**   |   **8**   |    **9**   | - |
-| :------------------------------------: | :-------: | :-------: | :-------: | :--------: | - |
-| Internal connections of the controller |     6     |     7     |     8     |      9     | - |
-|                  Name                  | COMn_DSR# | COMn_RTS# | COMn_CTS# | COMn_RI_V# | - |
+|               **Pin number**               |     6     |     7     |     8     |      9     |  -  |
+| :----------------------------------------: | :-------: | :-------: | :-------: | :--------: | :-: |
+| **Internal connections of the controller** |     6     |     7     |     8     |      9     |  -  |
+|                  **Name**                  | COMn_DSR# | COMn_RTS# | COMn_CTS# | COMn_RI_V# |  -  |

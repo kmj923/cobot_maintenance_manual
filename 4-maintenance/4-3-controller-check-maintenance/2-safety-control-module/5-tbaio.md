@@ -8,13 +8,13 @@ Common analog output signals are connected through TBDIO (two at the maximum). I
 
 ![Figure 35 Connection of common analog output signals (TBAIO)](../../../.gitbook/assets/image116.png)
 
-| **No** | **Name** | **                                            Usage** |
-| :----: | :------: | ----------------------------------------------------- |
-|    1   | GAIN0\_N | Ground of GAIN0 for common analog input               |
-|    2   | GAIN1\_N | Ground of GAIN1 for common analog input               |
-|    3   |   GND_A  | Common analog GND                                     |
-|    4   |   GND_A  | Common analog GND                                     |
-|    5   |   GAIN0  | Common analog input 0                                 |
-|    6   |   GAIN1  | Common analog input 1                                 |
-|    7   |  GAOUT0  | Common analog output 0                                |
-|    8   |  GAOUT1  | Common analog output 1                                |
+| **No** | **Name** | **　　　　　　　Usage**                        |
+| :----: | :------: | --------------------------------------- |
+|    1   | GAIN0\_N | Ground of GAIN0 for common analog input |
+|    2   | GAIN1\_N | Ground of GAIN1 for common analog input |
+|    3   |   GND_A  | Common analog GND                       |
+|    4   |   GND_A  | Common analog GND                       |
+|    5   |   GAIN0  | Common analog input 0                   |
+|    6   |   GAIN1  | Common analog input 1                   |
+|    7   |  GAOUT0  | Common analog output 0                  |
+|    8   |  GAOUT1  | Common analog output 1                  |

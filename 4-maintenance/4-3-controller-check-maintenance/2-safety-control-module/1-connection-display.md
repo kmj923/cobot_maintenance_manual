@@ -2,12 +2,9 @@
 
 The connector layout, usages, and connecting devices used by the SCM are as follows:
 
-|   |
-| - |
-
 ![Figure 28 Safety control board (BD6F1)](../../../.gitbook/assets/image109.png)
 
-| **Connector** | **                                       Usage**                                                                                                     |            **External connecting device**            |
+| **Connector** | **　　　　　　　　　Usage**                                                                                                                                   |            **External connecting device**            |
 | :-----------: | ---------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------: |
 |    CNPS1, 2   | <p>Power input for the safety circuit, 24 V DC</p><p>(Channels 1 and 2)</p>                                                                          |                 Power supply (SMPS2)                 |
 |     CNCAN1    | Data communication (exchange of torque data) with the torque sensors (Channel 1) of the mechanical parts                                             |         Robot cable connection terminal (CNM)        |
@@ -27,4 +24,3 @@ The connector layout, usages, and connecting devices used by the SCM are as foll
 |     TBDIO     | Connection of general digital I/O signals                                                                                                            |                General digital devices               |
 |  RS485\_1, 2  | <p>Connection of RS-485 serial communication</p><p>(reserved function)</p>                                                                           |                           -                          |
 |  RS232\_1, 2  | <p>Connection of RS-232 serial communication</p><p>(reserved function)</p>                                                                           |                           -                          |
-

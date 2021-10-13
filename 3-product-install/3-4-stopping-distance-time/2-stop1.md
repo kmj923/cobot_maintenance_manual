@@ -4,57 +4,62 @@ At STOP1, the stopping distance and time of the models at different axial extens
 
 
 
-## YL005
+## <mark style="color:green;">YL005</mark>
 
-* Extension: E=33%, 66%, 100%
+*   Extension: E=33%, 66%, 100%
 
-* Speed: S=33%, 66%, 100%
 
-* Load: L=33%
+*   Speed: S=33%, 66%, 100%
 
-![](../../.gitbook/assets/image%20%2831%29.png)
-
-* Load: L=66%
-
-![](../../.gitbook/assets/image%20%2824%29.png)
-
-* Load: L=100%
-
-![](../../.gitbook/assets/image%20%2828%29.png)
-
-## YL012
-
-* Extension: 33%, 66%, 100%
-
-* Speed: 33%, 66%, 100%
 
 * Load: L=33%
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](<../../.gitbook/assets/image (31).png>)
 
 * Load: L=66%
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](<../../.gitbook/assets/image (24).png>)
 
 * Load: L=100%
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](<../../.gitbook/assets/image (28).png>)
 
-## YL015
+## <mark style="color:green;">YL012</mark>
 
-* Extension: E=33%, 66%, 100%
+*   Extension: 33%, 66%, 100%
 
-* Speed: S=33%, 66%, 100%
+
+*   Speed: 33%, 66%, 100%
+
 
 * Load: L=33%
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](<../../.gitbook/assets/image (16).png>)
 
 * Load: L=66%
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](<../../.gitbook/assets/image (15).png>)
 
 * Load: L=100%
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](<../../.gitbook/assets/image (9).png>)
 
+## <mark style="color:green;">YL015</mark>
+
+*   Extension: E=33%, 66%, 100%
+
+
+*   Speed: S=33%, 66%, 100%
+
+
+* Load: L=33%
+
+![](<../../.gitbook/assets/image (17).png>)
+
+* Load: L=66%
+
+![](<../../.gitbook/assets/image (26).png>)
+
+* Load: L=100%
+
+![](<../../.gitbook/assets/image (7).png>)

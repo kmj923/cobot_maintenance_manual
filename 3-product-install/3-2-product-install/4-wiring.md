@@ -14,12 +14,13 @@ Check the connection ports of the manipulator and the controller, and connect th
 
 ![](../../.gitbook/assets/wiring\_3.png)
 
-|  ![](../../.gitbook/assets/1.png)  |  R  |                     AC220V L-phase                    | 16 AWG |
-| :--------------------------------: | :-: | :---------------------------------------------------: | :----: |
-|  ![](../../.gitbook/assets/2.png)  | (R) | AC220V L-phase addition(connected for power increase) | 16 AWG |
-|  ![](../../.gitbook/assets/3.png)  | (T) | AC220V T-phase addition(connected for power increase) | 16 AWG |
-|  ![](../../.gitbook/assets/4.png)  |  T  |                     AC220V T-phase                    | 16 AWG |
-|  ![](../../.gitbook/assets/5.png)  |  FG |                      Frame ground                     | 16 AWG |
+|               **No**               | **Name** |                    **Description**                    | **Specification** |
+| :--------------------------------: | :------: | :---------------------------------------------------: | :---------------: |
+|  ![](../../.gitbook/assets/1.png)  |     R    |                     AC220V L-phase                    |       16 AWG      |
+|  ![](../../.gitbook/assets/2.png)  |    (R)   | AC220V L-phase addition(connected for power increase) |       16 AWG      |
+|  ![](../../.gitbook/assets/3.png)  |    (T)   | AC220V T-phase addition(connected for power increase) |       16 AWG      |
+|  ![](../../.gitbook/assets/4.png)  |     T    |                     AC220V T-phase                    |       16 AWG      |
+|  ![](../../.gitbook/assets/5.png)  |    FG    |                      Frame ground                     |       16 AWG      |
 
 4\. Referring to the power connector pin map, connect one end of the power cable to the power connector.
 
@@ -35,5 +36,3 @@ Check the connection ports of the manipulator and the controller, and connect th
 * Do not modify or extend cables arbitrarily.
 * Hyundai Robotics will not take responsibility for product damages caused by the customer's carelessness, unskillful operation, and other errors. Never arbitrarily modify, disassemble, or repair the product.
 {% endhint %}
-
- 
