@@ -6,15 +6,18 @@ In collaborative operation in which the operator is allowed to contact the robot
 
 
 
-![](../../.gitbook/assets/robot_system_area_2.png)
+![](../../.gitbook/assets/robot_system_area\_2.png)
 
-* Operating space: A part of the restricted space that is used while the robot moves according to the operating program
+*   **Operating space**: A part of the restricted space that is used while the robot moves according to the operating program
 
-* Restricted space: A part of the maximum space that is restricted by restricting devices
 
-* Safeguarded space: A space for which safeguarding devices run
+*   **Restricted space**: A part of the maximum space that is restricted by restricting devices
 
-* Maximum space: A space in which the robot can move to the maximum extent
+
+*   **Safeguarded space**: A space for which safeguarding devices run
+
+
+* **Maximum space**: A space in which the robot can move to the maximum extent
 
 The maximum working spaces of collaborative robots vary depending on models. The maximum working spaces of models are as follows:
 
@@ -22,19 +25,18 @@ The maximum working spaces of collaborative robots vary depending on models. The
 Not all postures are possible even within the working area, so it is recommended to check through HRSpace.
 {% endhint %}
 
-* YL005: 916 mm
+### <mark style="color:green;">YL005: 916 mm</mark>
 
-![](../../.gitbook/assets/yl005_area.png)
+![](../../.gitbook/assets/yl005\_area.png)
 
-* YL012: 1,305 mm
+### <mark style="color:green;">YL012: 1,305 mm</mark>
 
-![](../../.gitbook/assets/yl012_area.png)
+![](../../.gitbook/assets/yl012\_area.png)
 
-* YL015: 963 mm
+### <mark style="color:green;">YL015: 963 mm</mark>
 
-![](../../.gitbook/assets/yl015_area.png)
+![](../../.gitbook/assets/yl015\_area.png)
 
 {% hint style="info" %}
 In the above cylindrical space passing through the S-axis, even if the tool flange moves slowly, other joints move quickly, possibly causing inefficient operation and damage to the robot. Therefore, it is not recommended to perform any operation in this space.
 {% endhint %}
-

@@ -2,43 +2,38 @@
 
 Check the connection ports of the manipulator and the controller, and connect them with the proper cable.
 
-1. Insert the robot connection cable into the connection terminal of the base of the manipulator, and clamp the cable with the connection ring so that the cable cannot be disconnected.
+1\. Insert the robot connection cable into the connection terminal of the base of the manipulator, and clamp the cable with the connection ring so that the cable cannot be disconnected.
 
-![](../../.gitbook/assets/wiring_1.png)
+![](../../.gitbook/assets/wiring\_1.png)
 
-2. Insert the other end of the robot connection cable into the connection terminal on the front of the controller, and clamp the cable with the connection ring so that the cable cannot be disconnected.
+2\. Insert the other end of the robot connection cable into the connection terminal on the front of the controller, and clamp the cable with the connection ring so that the cable cannot be disconnected.
 
-![](../../.gitbook/assets/wiring_2.png)
+![](../../.gitbook/assets/wiring\_2.png)
 
-3. Connect the teach pendant connection cable of the controller to the cable connector of the teach pendant.
+3\. Connect the teach pendant connection cable of the controller to the cable connector of the teach pendant.
 
-![](../../.gitbook/assets/wiring_3.png)
+![](../../.gitbook/assets/wiring\_3.png)
 
-| **No** | Name | Description | **Specification** |
-| :---: | :---: | :---: | :---: |
-|  ![](../../.gitbook/assets/1.png)  | R | AC220V L-phase | 16 AWG |
-|  ![](../../.gitbook/assets/2.png)  | \(R\) | AC220V L-phase addition\(connected for power increase\) | 16 AWG |
-|  ![](../../.gitbook/assets/3.png)  | \(T\) | AC220V T-phase addition\(connected for power increase\) | 16 AWG |
-|  ![](../../.gitbook/assets/4.png)  | T | AC220V T-phase | 16 AWG |
-|  ![](../../.gitbook/assets/5.png)  | FG | Frame ground | 16 AWG |
+|  ![](../../.gitbook/assets/1.png)  |  R  |                     AC220V L-phase                    | 16 AWG |
+| :--------------------------------: | :-: | :---------------------------------------------------: | :----: |
+|  ![](../../.gitbook/assets/2.png)  | (R) | AC220V L-phase addition(connected for power increase) | 16 AWG |
+|  ![](../../.gitbook/assets/3.png)  | (T) | AC220V T-phase addition(connected for power increase) | 16 AWG |
+|  ![](../../.gitbook/assets/4.png)  |  T  |                     AC220V T-phase                    | 16 AWG |
+|  ![](../../.gitbook/assets/5.png)  |  FG |                      Frame ground                     | 16 AWG |
 
-4. Referring to the power connector pin map, connect one end of the power cable to the power connector.
+4\. Referring to the power connector pin map, connect one end of the power cable to the power connector.
 
-![](../../.gitbook/assets/wiring_4.png)
+![](../../.gitbook/assets/wiring\_4.png)
 
-5. Connect the other end of the power cable to the power source.
+5\. Connect the other end of the power cable to the power source.
 
 {% hint style="warning" %}
-**\[Caution\]**
+**\[Caution]**
 
 * Make sure to power off the product before carrying out any types of wiring, termination, and electrical work.
-
 * Check the shapes of the cable connectors, and connect the proper cables to them without applying excessive force. Excessive force may bend or damage the pins.
-
 * Do not modify or extend cables arbitrarily.
-
 * Hyundai Robotics will not take responsibility for product damages caused by the customer's carelessness, unskillful operation, and other errors. Never arbitrarily modify, disassemble, or repair the product.
 {% endhint %}
 
  
-

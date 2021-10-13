@@ -2,25 +2,25 @@
 
 On the inside and outside of the controller, nameplates, warning signs, safety symbols, and the like are attached. Check the labels to ensure safety.
 
-![Figure 1 Safety label attachment points: front and top \(left\) / rear \(right\)](../../.gitbook/assets/safety_labels_1.png)
+![Figure 1 Safety label attachment points: front and top (left) / rear (right)](../../.gitbook/assets/safety_labels\_1.png)
 
-![Figure 2 Safety label attachment points: side \(left\) / inner side \(right\)](../../.gitbook/assets/safety_labels_2.png)
+![Figure 2 Safety label attachment points: side (left) / inner side (right)](../../.gitbook/assets/safety_labels\_2.png)
 
 #### ![](../../.gitbook/assets/1.png) Caution for Power and Grounding
 
-![Korean \(left\) / English \(right\)](../../.gitbook/assets/image%20%2827%29.png)
+![Korean (left) / English (right)](<../../.gitbook/assets/image (27).png>)
 
 #### ![](../../.gitbook/assets/2.png) High voltage Indication
 
-![Korean / English](../../.gitbook/assets/image%20%2829%29.png)
+![Korean / English](<../../.gitbook/assets/image (29).png>)
 
 ####  ![](../../.gitbook/assets/3.png) Input power Indication
 
-![Korean / English](../../.gitbook/assets/image%20%2825%29.png)
+![Korean / English](<../../.gitbook/assets/image (25).png>)
 
-#### ![](../../.gitbook/assets/4.png)Air irculation of ventiduct precautions
+#### ![](../../.gitbook/assets/4.png)Air irculation of ventiduct&#xD; precautions
 
-![Korean \(left\) / English \(right\)](../../.gitbook/assets/image%20%2811%29.png)
+![Korean (left) / English (right)](<../../.gitbook/assets/image (11).png>)
 
 #### ![](../../.gitbook/assets/5.png)NRTL Certification mark
 
@@ -28,15 +28,15 @@ On the inside and outside of the controller, nameplates, warning signs, safety s
 
 #### ![](../../.gitbook/assets/6.png)Nameplate
 
-![Korean \(left\) / English \(right\)](../../.gitbook/assets/image%20%2830%29.png)
+![Korean (left) / English (right)](<../../.gitbook/assets/image (30).png>)
 
-#### ![](../../.gitbook/assets/7.png)high voltage Warning
+#### ![](../../.gitbook/assets/7.png)high voltage&#xD; Warning&#xD;
 
-![Korean \(left\) / English \(right\)](../../.gitbook/assets/image%20%2810%29.png)
+![Korean (left) / English (right)](<../../.gitbook/assets/image (10).png>)
 
 #### ![](../../.gitbook/assets/8.png)Installation precautions
 
-![Korean \(left\) / English \(right\)](../../.gitbook/assets/image%20%2832%29.png)
+![Korean (left) / English (right)](<../../.gitbook/assets/image (32).png>)
 
 #### ![](../../.gitbook/assets/9.png)Functional safety Certification mark
 
@@ -44,17 +44,16 @@ On the inside and outside of the controller, nameplates, warning signs, safety s
 
 #### ![](../../.gitbook/assets/10.png)Ground wire connection precautions
 
-![Korean \(left\) / English \(right\)](../../.gitbook/assets/image%20%2819%29.png)
+![Korean (left) / English (right)](<../../.gitbook/assets/image (19).png>)
 
-#### ![](../../.gitbook/assets/11.png)Ground mark
+#### ![](../../.gitbook/assets/11.png)Ground mark&#xD;
 
 ![Korean / English](../../.gitbook/assets/image42.jpeg)
 
 {% hint style="warning" %}
-**\[Warning\]** : Never engage in behaviors that damage safety labels, such as moving the position of the nameplate, warning signs, safety symbols, nomenclature markings, cable markings, and the like attached to the controller. In addition, do not hide these labels by putting paint or covers.
+**\[Warning]** : Never engage in behaviors that damage safety labels, such as moving the position of the nameplate, warning signs, safety symbols, nomenclature markings, cable markings, and the like attached to the controller. In addition, do not hide these labels by putting paint or covers.
 {% endhint %}
 
 {% hint style="warning" %}
-**\[Caution\]** : Indicate the robot installation areas and hazard areas with distinct shapes, colors, or styles so that they are clearly distinguished from other facilities and equipment.
+**\[Caution]** : Indicate the robot installation areas and hazard areas with distinct shapes, colors, or styles so that they are clearly distinguished from other facilities and equipment.
 {% endhint %}
-
