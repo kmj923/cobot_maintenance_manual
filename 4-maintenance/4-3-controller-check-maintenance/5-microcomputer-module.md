@@ -1,13 +1,10 @@
 # 4.3.5 소형 컴퓨터 모듈
 
-소형 컴퓨터 모듈(miniH6COM, EBC-GF53)은 Hi6제어 플랫폼을 기반으로 협동로봇을 구동하고 제어하는 모듈입니다. 이 모듈에 대한 자세한 내용은 “**Hi6 제어기 조작 설명서**”를 참조하십시오.
+소형 컴퓨터 모듈(miniH6COM, EBC-GF53)은 Hi6제어 플랫폼을 기반으로 협동로봇을 구동하고 제어하는 모듈입니다. 이 모듈에 대한 자세한 내용은 “[**Hi6 제어기 조작 설명서**](https://hyundai-robotics.gitbook.io/hi6-operation-manual/)”를 참조하십시오.
 
 소형 컴퓨터 모듈의 외부 인터페이스와 COM 포트, 전원 커넥터의 구성은 다음과 같습니다.
 
 
-
-|   |
-| - |
 
 ![그림 40 소형 컴퓨터 모듈 외부 인터페이스](../../.gitbook/assets/image121.png)
 
@@ -43,9 +40,6 @@
 
 
 
-|     |
-| :-: |
-
 ![그림 43 DCIN (전원 커넥터) 핀 맵](../../.gitbook/assets/image124.png)
 
 |                     **번호**                    | **이름** |
@@ -53,4 +47,3 @@
 | ![Adobe Systems](../../.gitbook/assets/1.png) |  DC24V |
 | ![Adobe Systems](../../.gitbook/assets/2.png) |   FG   |
 | ![Adobe Systems](../../.gitbook/assets/3.png) |   GND  |
-

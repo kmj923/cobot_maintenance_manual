@@ -4,7 +4,7 @@
 
 ![그림 47 RJ45 소켓의 이더넷 핀 할당](../../../.gitbook/assets/image127.png)
 
-| **번호** | **신호** | **                                                                       설명**                        |
+| **번호** | **신호** | 　　　　　　　**설명**                                                                                        |
 | :----: | :----: | ---------------------------------------------------------------------------------------------------- |
 |    1   |   TX+  | Transmit data +                                                                                      |
 |    2   |   TX-  | Transmit data -                                                                                      |
@@ -17,29 +17,29 @@
 
 ![그림 48 CC-링크 인터페이스(CombiCon male 커넥터, 5핀)](../../../.gitbook/assets/image128.png)
 
-| **번호** | **신호** | **                                                                  설명** |
-| :----: | :----: | ------------------------------------------------------------------------ |
-|    1   |   DA   | Data A                                                                   |
-|    2   |   DB   | Data B                                                                   |
-|    3   |   DG   | Data Ground                                                              |
-|    4   |   SLD  | Shield                                                                   |
-|    5   |   FG   | Field Ground                                                             |
+| **번호** | **신호** | 　　　　　　　**설명** |
+| :----: | :----: | ------------- |
+|    1   |   DA   | Data A        |
+|    2   |   DB   | Data B        |
+|    3   |   DG   | Data Ground   |
+|    4   |   SLD  | Shield        |
+|    5   |   FG   | Field Ground  |
 
 ![그림 49 DevcieNet 인터페이스(CombiCon male 커넥터, 5 핀)](../../../.gitbook/assets/image129.png)
 
-| **번호** | **신호** | **                                                                 설명** |
-| :----: | :----: | ----------------------------------------------------------------------- |
-|    1   |   V-   | Reference potential DeviceNet supply voltage                            |
-|    2   |  CAN_L | CAN Low-Signal                                                          |
-|    3   |  Drain | Shield                                                                  |
-|    4   |  CAN_H | CAN High-Signal                                                         |
-|    5   |   V+   | +24 V DeviceNet supply voltage                                          |
+| **번호** | **신호** | 　　　　　　**설명**                                 |
+| :----: | :----: | -------------------------------------------- |
+|    1   |   V-   | Reference potential DeviceNet supply voltage |
+|    2   |  CAN_L | CAN Low-Signal                               |
+|    3   |  Drain | Shield                                       |
+|    4   |  CAN_H | CAN High-Signal                              |
+|    5   |   V+   | +24 V DeviceNet supply voltage               |
 
 ![그림 50 PROFIBUS 인터페이스(DSub female 커넥터, 9 핀)](../../../.gitbook/assets/image130.png)
 
-| **번호** |   **신호**  | **                                                               설명** |
-| :----: | :-------: | --------------------------------------------------------------------- |
-|    3   | RxD/TxD-P | Receive/Send Data-P respectively connection B plug                    |
-|    5   |    DGND   | Reference potential                                                   |
-|    6   |     VP    | Positive supply voltage                                               |
-|    8   | RxD/TxD-N | Receive/Send Data-N respectively connection A plug                    |
+| **번호** |   **신호**  | 　　　　　　　**설명**                                      |
+| :----: | :-------: | -------------------------------------------------- |
+|    3   | RxD/TxD-P | Receive/Send Data-P respectively connection B plug |
+|    5   |    DGND   | Reference potential                                |
+|    6   |     VP    | Positive supply voltage                            |
+|    8   | RxD/TxD-N | Receive/Send Data-N respectively connection A plug |
