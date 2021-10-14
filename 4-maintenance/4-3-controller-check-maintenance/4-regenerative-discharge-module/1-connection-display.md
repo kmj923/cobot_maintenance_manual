@@ -2,14 +2,14 @@
 
 The connector layout, usage, and connecting devices used by the RDM are as follows:
 
-| Connector | **                         Usage**                |     External connecting device     |
-| :-------: | ------------------------------------------------- | :--------------------------------: |
-|   CNPM3   | Connection of 48 V DC power line (for the motor)  | Power precharge module (PPM) CNPM3 |
-|   CNRDM   | Connection of state information signals           |  Safety control module (SCM) CNPMD |
+| **Connector** | 　　　　　**Usage**                                    |   **External connecting device**   |
+| :-----------: | ------------------------------------------------- | :--------------------------------: |
+|     CNPM3     | Connection of 48 V DC power line (for the motor)  | Power precharge module (PPM) CNPM3 |
+|     CNRDM     | Connection of state information signals           |  Safety control module (SCM) CNPMD |
 
 The details of the state display of the RDM are as follows:
 
-| **LED** | **                         Usage**                                                                      |                                                  Display details (lamp state)                                                  |
+| **LED** | 　　　　　**Usage**                                                                                          |                                                **Display details (lamp state)**                                                |
 | :-----: | ------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------: |
 |   LED7  | Detection of overheating of the regenerative discharge resistor or overcurrent of the discharge current | <p>Overheating of the regenerative discharge resistor (95°C)</p><p>or Overcurrent of the discharge current (15 A)</p><p></p> |
 |   LED8  | Detection of disconnection of the regenerative discharge resistor                                       |        The regenerative discharge resistor is disconnected (displayed even during the regenerative discharge operation)        |

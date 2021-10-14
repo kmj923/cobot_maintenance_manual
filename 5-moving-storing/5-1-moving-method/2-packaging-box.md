@@ -4,8 +4,8 @@ The specifications of the packaging box for product transportation are as follow
 
 ![Figure 54 Packaging box for product transportation](../../.gitbook/assets/image134.png)
 
-| Model | Length **(L)** | **Width (W)** | **Height (H)** |
-| :---: | :------------: | :-----------: | :------------: |
-| YL005 |                |               |                |
-| YL012 |                |               |                |
-| YL015 |                |               |                |
+| **Model** | **Length** **(L)** | **Width (W)** | **Height (H)** |
+| :-------: | :----------------: | :-----------: | :------------: |
+|   YL005   |                    |               |                |
+|   YL012   |                    |               |                |
+|   YL015   |                    |               |                |

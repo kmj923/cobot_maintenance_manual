@@ -2,13 +2,13 @@
 
 Hyundai Robotics acquired certificates of the robot from the following official testing and certification bodies for supplying stable robot systems:
 
-## CE Certifications
+## <mark style="color:green;">CE Certifications</mark>
 
 ![](.gitbook/assets/image144.png)
 
 ![](.gitbook/assets/image145.png)
 
-## NRTL Certifications
+## <mark style="color:green;">NRTL Certifications</mark>
 
 ![](.gitbook/assets/image146.png)
 
@@ -16,19 +16,18 @@ Hyundai Robotics acquired certificates of the robot from the following official 
 
 ![](.gitbook/assets/image148.png)
 
-## Autonomous safety verification reporting certificate\(KCs\) \(YL005\)
+## <mark style="color:green;">Autonomous safety verification reporting certificate(KCs) (YL005)</mark>
 
 ![](.gitbook/assets/image149.png)
 
-## Autonomous safety verification reporting certificate\(KCs\) \(YL012\)
+## <mark style="color:green;">Autonomous safety verification reporting certificate(KCs) (YL012)</mark>
 
 ![](.gitbook/assets/image150.png)
 
-## Autonomous safety verification reporting certificate\(KCs\) \(YL015\)
+## <mark style="color:green;">Autonomous safety verification reporting certificate(KCs) (YL015)</mark>
 
 ![](.gitbook/assets/image151.png)
 
-## Functional Safety certificate
+## <mark style="color:green;">Functional Safety certificate</mark>
 
 ![](.gitbook/assets/image148.png)
-

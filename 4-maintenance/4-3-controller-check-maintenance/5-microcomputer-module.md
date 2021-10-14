@@ -8,15 +8,15 @@ The composition of the external interface, COM ports, and power connector of the
 
 ![Figure 40 External interface of the microcomputer module](../../.gitbook/assets/image121.png)
 
-|     **Port**     |         Usage        |   Specification  | **Count** |
-| :--------------: | :------------------: | :--------------: | :-------: |
-|        DP        |        Display       |   Display Port   |     1     |
-| LAN1, LAN2, LAN3 |       Wired LAN      |     Giga LAN     |     3     |
-|    USB1, USB2    |          USB         |      USB2.0      |     2     |
-|    COM1, COM2    | Serial communication |  RS-232/422/485  |     2     |
-|       GPIO       |      Digital I/O     |  8 bits, DSUB-9  |     1     |
-|       DC IN      |      Power input     | DC12 \~ 24V, 10A |     1     |
-|         -        |    Extension slot    |   PCIe x1, PCI   |     2     |
+|     **Port**     |       **Usage**      | **Specification** | **Count** |
+| :--------------: | :------------------: | :---------------: | :-------: |
+|        DP        |        Display       |    Display Port   |     1     |
+| LAN1, LAN2, LAN3 |       Wired LAN      |      Giga LAN     |     3     |
+|    USB1, USB2    |          USB         |       USB2.0      |     2     |
+|    COM1, COM2    | Serial communication |   RS-232/422/485  |     2     |
+|       GPIO       |      Digital I/O     |   8 bits, DSUB-9  |     1     |
+|       DC IN      |      Power input     |  DC12 \~ 24V, 10A |     1     |
+|         -        |    Extension slot    |    PCIe x1, PCI   |     2     |
 
 ![Figure 41 COM port (male) pin map](../../.gitbook/assets/image122.png)
 
@@ -40,9 +40,6 @@ The composition of the external interface, COM ports, and power connector of the
 
 
 
-|     |
-| :-: |
-
 ![Figure 43 DCIN (power connector) pin map](../../.gitbook/assets/image124.png)
 
 |                     **No**                    | **Name** |
@@ -50,4 +47,3 @@ The composition of the external interface, COM ports, and power connector of the
 | ![Adobe Systems](../../.gitbook/assets/1.png) |   DC24V  |
 | ![Adobe Systems](../../.gitbook/assets/2.png) |    FG    |
 | ![Adobe Systems](../../.gitbook/assets/3.png) |    GND   |
-

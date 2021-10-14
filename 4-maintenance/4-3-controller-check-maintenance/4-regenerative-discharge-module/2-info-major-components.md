@@ -4,7 +4,7 @@ The regenerative discharge board uses fuses for protecting components against ov
 
 ![Figure 39 Inside view of the RDM](<../../../.gitbook/assets/image (18).png>)
 
-|                        **Component**                       | **                              Usage**                                                                          | **Specificatio**n |
+|                        **Component**                       | 　　　　　　　　**Usage**                                                                                                | **Specification** |
 | :--------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------- | :---------------: |
 |                        Thermal fuse                        | Protection from the overcurrent of regenerative operation and overheating of the regenerative discharge resistor |     15 A, 93°C    |
 | Fuse for protecting from overcurrent of the input terminal | Protection from the overcurrent of input power                                                                   |     58 V, 20 A    |
