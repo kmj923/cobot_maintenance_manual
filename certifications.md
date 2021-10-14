@@ -16,15 +16,18 @@
 
 ![](.gitbook/assets/image148.png)
 
-## 자율안전확인 신고\(KCs\) \(YL005\)
+## 자율안전확인 신고(KCs) (YL005)
 
 ![](.gitbook/assets/image149.png)
 
-## 자율안전확인 신고\(KCs\) \(YL012\)
+## 자율안전확인 신고(KCs) (YL012)
 
 ![](.gitbook/assets/image150.png)
 
-## 자율안전확인 신고\(KCs\) \(YL015\)
+## 자율안전확인 신고(KCs) (YL015)
 
 ![](.gitbook/assets/image151.png)
 
+## 기능안전(Functional Safety) 인증
+
+![](.gitbook/assets/image148.png)

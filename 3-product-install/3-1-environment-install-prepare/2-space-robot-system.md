@@ -6,25 +6,29 @@
 
 ![](../../.gitbook/assets/robot_system_area.png)
 
-* 운전 영역\(Operating space\): 작업 프로그램에 따라 로봇이 움직이는 동안 사용되는 제한 영역의 한 영역
-
-* 제한 영역\(Restricted space\): 제한 장치에 의해 제한되는 최대 영역의 한 영역
-
-* 보호 영역\(Safeguarded space\): 보호 장치가 작동되는 영역
-
-* 최대 영역\(Maximum space\): 로봇이 움직이는 영역으로 다다를 수 있는 영역
+* **운전 영역(Operating space)**: 작업 프로그램에 따라 로봇이 움직이는 동안 사용되는 제한 영역의 한 영역
+* **제한 영역(Restricted space)**: 제한 장치에 의해 제한되는 최대 영역의 한 영역
+* **보호 영역(Safeguarded space)**: 보호 장치가 작동되는 영역
+* **최대 영역(Maximum space)**: 로봇이 움직이는 영역으로 다다를 수 있는 영역
 
 협동로봇이 움직일 수 있는 최대 작업 영역은 모델별로 다릅니다. 모델별 최대 작업 영역은 다음과 같습니다.
 
-* YL005: 916 mm
+{% hint style="info" %}
+작업영역 내에서도 모든 자세가 가능한 것은 아니므로 HRSpace를 통해 확인하는 것을 권장합니다.
+{% endhint %}
 
-![](../../.gitbook/assets/yl005_area.png)
+### <mark style="color:green;">YL005: 916 mm</mark>
 
-* YL012: 1,305 mm
+![](../../.gitbook/assets/yl005\_area.png)
 
-![](../../.gitbook/assets/yl012_area.png)
+### <mark style="color:green;">YL012: 1,305 mm</mark>
 
-* YL015: 963 mm
+![](../../.gitbook/assets/yl012\_area.png)
 
-![](../../.gitbook/assets/yl015_area.png)
+### <mark style="color:green;">YL015: 963 mm</mark>
 
+![](../../.gitbook/assets/yl015\_area.png)
+
+{% hint style="info" %}
+상기의 S축을 관통하는 원통형 영역은 툴 플랜지는 느리게 움직이더라도 다른 관절들이 빠르게 움직여 비효율적 작동 및 로봇 손상을 유발할 수 있습니다. 따라서 이 영역에서 작동하는 것을 권장하지 않습니다.
+{% endhint %}

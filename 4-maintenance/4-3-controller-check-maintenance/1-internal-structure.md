@@ -2,118 +2,16 @@
 
 제어기의 구조와 각 부분의 이름을 알아 두면 설치 및 유지 보수 방법을 확인할 때 유용합니다.
 
-![&#xADF8;&#xB9BC; 25 &#xC81C;&#xC5B4;&#xAE30; &#xB0B4;&#xBD80; &#xAD6C;&#xC870;](../../.gitbook/assets/image107.png)
+![그림 26 제어기 내부 구조](../../.gitbook/assets/image107.png)
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center"><b>&#xBC88;&#xD638;</b>
-      </th>
-      <th style="text-align:center"><b>&#xC774;&#xB984;</b>
-      </th>
-      <th style="text-align:center">&lt;b&gt;&lt;/b&gt;</th>
-      <th style="text-align:left"><b>                                                 &#xC124;&#xBA85;</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/1.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">
-        <p>&#xC18C;&#xD615; &#xCEF4;&#xD4E8;&#xD130;</p>
-        <p>&#xBAA8;&#xB4C8;</p>
-      </td>
-      <td style="text-align:center">miniH6COM</td>
-      <td style="text-align:left">&#xD611;&#xB3D9;&#xB85C;&#xBD07; &#xC804;&#xBC18;&#xC744; &#xC81C;&#xC5B4;&#xD569;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/2.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">
-        <p>&#xC804;&#xC6D0; &#xC2A4;&#xC704;&#xCE58;</p>
-        <p>&#xBC0F; &#xCC28;&#xB2E8;&#xAE30;</p>
-      </td>
-      <td style="text-align:center">CP1</td>
-      <td style="text-align:left">&#xC81C;&#xC5B4;&#xAE30;&#xC758; &#xC8FC;&#xC804;&#xC6D0;&#xC744; &#xCF1C;&#xAC70;&#xB098;
-        &#xB055;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/3.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">&#xB178;&#xC774;&#xC988; &#xD544;&#xD130;</td>
-      <td style="text-align:center">NF1</td>
-      <td style="text-align:left">&#xC804;&#xB3C4;&#xC131; &#xB178;&#xC774;&#xC988;&#xB97C; &#xCC28;&#xB2E8;&#xD558;&#xB294;
-        &#xD544;&#xD130;&#xC785;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/4.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">&#xBC84;&#xD37C;</td>
-      <td style="text-align:center">BUFFER</td>
-      <td style="text-align:left">&#xC815;&#xC804; &#xC2DC; &#xC77C;&#xC815; &#xC2DC;&#xAC04; &#xB3D9;&#xC548;
-        &#xC18C;&#xD615; &#xCEF4;&#xD4E8;&#xD130; &#xBAA8;&#xB4C8;&#xC5D0; &#xC804;&#xB825;&#xC744;
-        &#xACF5;&#xAE09;&#xD569;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/5.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">&#xC804;&#xC6D0; &#xC7A5;&#xCE58;2</td>
-      <td style="text-align:center">SMPS2</td>
-      <td style="text-align:left">&#xC870;&#xC778;&#xD2B8; &#xC561;&#xCD94;&#xC5D0;&#xC774;&#xD130;&#xC5D0;&#xC11C;
-        &#xC0AC;&#xC6A9;&#xD558;&#xB294; &#xC804;&#xC6D0;(DC48V)&#xC744; &#xC0DD;&#xC131;&#xD569;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/6.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">&#xC804;&#xC6D0; &#xC7A5;&#xCE58;1</td>
-      <td style="text-align:center">SMPS1</td>
-      <td style="text-align:left">&#xC81C;&#xC5B4;&#xC6A9; &#xC804;&#xC6D0;(DC48V)&#xC744; &#xC0DD;&#xC131;&#xD569;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/7.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">
-        <p>&#xD68C;&#xC0DD; &#xBC29;&#xC804;</p>
-        <p>&#xBAA8;&#xB4C8;</p>
-      </td>
-      <td style="text-align:center">RDM</td>
-      <td style="text-align:left">&#xC870;&#xC778;&#xD2B8; &#xC561;&#xCD94;&#xC5D0;&#xC774;&#xD130;&#xC758;
-        &#xBAA8;&#xD130;&#xC5D0;&#xC11C; &#xBC1C;&#xC0DD;&#xD558;&#xB294; &#xD68C;&#xC0DD;
-        &#xC804;&#xB825;&#xC744; &#xBC29;&#xC804;&#xD569;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/8.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">
-        <p>&#xC548;&#xC804; &#xC81C;&#xC5B4;</p>
-        <p>&#xBAA8;&#xB4C8;</p>
-      </td>
-      <td style="text-align:center">SCM</td>
-      <td style="text-align:left">&#xD611;&#xB3D9;&#xB85C;&#xBD07;&#xC758; &#xC548;&#xC804; &#xAE30;&#xB2A5;&#xC744;
-        &#xC81C;&#xC5B4;&#xD569;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="../../.gitbook/assets/9.png" alt="Adobe Systems" />
-      </td>
-      <td style="text-align:center">
-        <p>&#xC804;&#xC6D0; &#xCDA9;&#xC804;</p>
-        <p>&#xBAA8;&#xB4C8;</p>
-      </td>
-      <td style="text-align:center">PPM</td>
-      <td style="text-align:left">&#xD611;&#xB3D9;&#xB85C;&#xBD07;&#xC5D0; &#xB0B4;&#xC7A5;&#xB41C; &#xC870;&#xC778;&#xD2B8;
-        &#xC561;&#xCD94;&#xC5D0;&#xC774;&#xD130;&#xC758; &#xBAA8;&#xD130;&#xC6A9;
-        &#xC804;&#xC6D0;&#xC744; &#xBBF8;&#xB9AC; &#xCDA9;&#xC804;&#xD569;&#xB2C8;&#xB2E4;.</td>
-    </tr>
-  </tbody>
-</table>
-
+|                     **번호**                     |           **이름**          |    ****   | **                                                 설명** |
+| :--------------------------------------------: | :-----------------------: | :-------: | ------------------------------------------------------- |
+| ![Adobe Systems](../../.gitbook/assets/1.png)  |  <p>소형 컴퓨터  </p><p>모듈</p> | miniH6COM | 협동로봇 전반을 제어합니다.                                         |
+| ![Adobe Systems](../../.gitbook/assets/2.png)  | <p>전원 스위치</p><p>및 차단기</p> |    CP1    | 제어기의 주전원을 켜거나 끕니다.                                      |
+| ![Adobe Systems](../../.gitbook/assets/3.png)  |           노이즈 필터          |    NF1    | 전도성 노이즈를 차단하는 필터입니다.                                    |
+| ![Adobe Systems](../../.gitbook/assets/4.png)  |             버퍼            |   BUFFER  | 정전 시 일정 시간 동안 소형 컴퓨터 모듈에 전력을 공급합니다.                     |
+| ![Adobe Systems](../../.gitbook/assets/5.png)  |           전원 장치2          |   SMPS2   | 조인트 액추에이터에서 사용하는 전원(DC48V)을 생성합니다.                      |
+|  ![Adobe Systems](../../.gitbook/assets/6.png) |           전원 장치1          |   SMPS1   | 제어용 전원(DC48V)을 생성합니다.                                   |
+|  ![Adobe Systems](../../.gitbook/assets/7.png) |   <p>회생 방전</p><p>모듈</p>   |    RDM    | 조인트 액추에이터의 모터에서 발생하는 회생 전력을 방전합니다.                      |
+|  ![Adobe Systems](../../.gitbook/assets/8.png) |   <p>안전 제어</p><p>모듈</p>   |    SCM    | 협동로봇의 안전 기능을 제어합니다.                                     |
+|  ![Adobe Systems](../../.gitbook/assets/9.png) |   <p>전원 충전</p><p>모듈</p>   |    PPM    | 협동로봇에 내장된 조인트 액추에이터의 모터용 전원을 미리 충전합니다.                  |
