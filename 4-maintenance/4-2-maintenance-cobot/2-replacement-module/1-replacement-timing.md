@@ -20,14 +20,10 @@ Replace the integrated driving module when any of the following anomalies is fou
 
     An abnormal brake will make the axes fall in the operation ready \[brake OFF] state or generate overloading and abnormal noise by being actuated in the operation ready \[brake ON] state. You can check on anomalies of the brake by the following methods:
 
-
-
     *   While the motor is not turned on, turn ON the brake release switch so that the robot can be moved. Before turning ON the brake release switch, take actions so that the robot arm cannot fall by gravity.
 
 
-    *   In the operation ready state, turn the brake release switch ON/OFF, and check that the brake operation sound is heard. In most cases, if the brake operation sound is not heard, there is a wire disconnection. In such a case, replace the integrated driving module.**        **
-
-
+    * In the operation ready state, turn the brake release switch ON/OFF, and check that the brake operation sound is heard. In most cases, if the brake operation sound is not heard, there is a wire disconnection. In such a case, replace the integrated driving module.
 
 {% hint style="warning" %}
 **\[Caution]**
@@ -46,11 +42,5 @@ Replace the integrated driving module when any of the following anomalies is fou
 * In replacing the integrated driving module, it is likely that the worker will place some parts on the floor. Before the replacement, secure the area so that no parts can be lost or damaged.
 * Replacement of the integrated driving module must be carried out by qualified experts who have taken the relevant training provided by Hyundai Robotics. In the event it is necessary to replace the integrated driving module, contact our Customer Support Team to consign the work to experts.
 * After the robot is stopped and before the worker touches the integrated driving module, its temperature should be checked.
-*   In the case of the gigabit Ethernet option, because the module replacement is not simple, contact our Customer Support Team to consign the work to experts.
-
-
+* In the case of the gigabit Ethernet option, because the module replacement is not simple, contact our Customer Support Team to consign the work to experts.
 {% endhint %}
-
-
-
-
