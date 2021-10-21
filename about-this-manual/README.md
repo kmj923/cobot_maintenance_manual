@@ -13,8 +13,8 @@ Products covered by this manual are :
 |        **Division**        | **Name** | **Version** |
 | :------------------------: | :------: | :---------: |
 |         Manipulator        |   YL012  |      0D     |
-|                            |   YL015  |      0A     |
-|                            |   YL005  |      0B     |
+|                            |   YL015  |      0B     |
+|                            |   YL005  |      0A     |
 |         Controller         |  Hi6-H10 |     V1.0    |
 | Safety control module(SCM) |   BD6F1  |     V1.2    |
 |        Teach pendant       |   TP600  |     V1.0    |
