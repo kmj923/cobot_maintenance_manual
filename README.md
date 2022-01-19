@@ -1,2 +1,3 @@
-# Maintenance Manual for Collaborative Robot
+# doc-cobot-maintenance
 
+협동로봇 보수 설명서
